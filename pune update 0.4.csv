@@ -1,0 +1,921 @@
+,Unnamed: 0.1,Unnamed: 0,Built Up Area (sq.ft),Avg. Price (₹ K/sq.ft),Age of property (Year),Possession status,Facing,Furnishing,Brokerage (lac),Price,Carpet Area,Bedrooms,Bathrooms,Parking,Balcony,Covered Parking,Open Parking
+0,0,0,3400.0,13.82,5,Ready to move,North-East facing,Semi Furnished,47000000000.0,46988000.0,2700.0,4.0,4.0,2 Covered Parking,3,2.0,0.0
+1,1,1,7900.0,20.13,5,Ready to move,East facing,Fully Furnished,160000000000.0,159027000.0,865.0,4.0,5.0,3 Covered Parking,2,3.0,0.0
+4,4,4,2587.0,12.37,10,Ready to move,North facing,Fully Furnished,35000000000.0,32001190.0,1740.0,3.0,4.0,2 Covered Parking,1,2.0,0.0
+5,5,5,1331.0,16.53,10,Under Construction,East facing,Unfurnished,0.0,22001430.0,1350.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+6,6,6,2300.0,9.13,10,Ready to move,East facing,Fully Furnished,25000000000.0,20999000.0,1443.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+7,7,7,3250.0,9.69,1,Ready to move,East facing,Fully Furnished,30000000000.0,31492500.0,2050.0,,4.0,4,2 Covered and 2 Open Parking,4.0,0.0
+8,8,8,3245.0,9.24,15,Ready to move,East facing,Semi Furnished,0.0,29983800.0,2000.0,3.0,3.0,2 Covered Parking,3,2.0,0.0
+9,9,9,1300.0,14.23,15,Ready to move,East facing,Fully Furnished,15000000000.0,18499000.0,1700.0,,3.0,2,No Parking,2.0,0.0
+10,10,10,2662.0,16.53,20,Under Construction,East facing,Unfurnished,16000000000.0,44002860.0,1640.0,4.0,2.0,2 Covered and 1 Open Parking,2,2.0,1.0
+11,11,11,630.0,11.9,15,Ready to move,East facing,Semi Furnished,23000000000.0,7497000.0,2200.0,1.0,1.0,No Parking,1,0.0,0.0
+12,12,12,630.0,12.7,10,Ready to move,East facing,Fully Furnished,25000000000.0,8001000.0,2346.0,1.0,1.0,No Parking,1,0.0,0.0
+13,13,13,1750.0,13.14,20,Ready to move,East facing,Fully Furnished,21000000000.0,22995000.0,900.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+14,14,14,2020.0,12.38,10,Ready to move,East facing,Semi Furnished,30000000000.0,25007600.0,1000.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+15,15,15,1476.0,14.57,15,Ready to move,East facing,Fully Furnished,48000000000.0,21505320.0,1350.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+16,16,16,2570.0,11.67,5,Ready to move,North-West facing,Fully Furnished,80000000000.0,29991900.0,900.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+17,17,17,3112.0,14.46,5,Ready to move,North-East facing,Semi Furnished,0.0,44999520.0,1600.0,4.0,4.0,3 Covered Parking,2,3.0,0.0
+18,18,18,4250.0,18.23,5,Ready to move,East facing,Semi Furnished,38000000000.0,77477500.0,2000.0,4.0,5.0,3 Covered Parking,2,3.0,0.0
+19,19,19,2020.0,12.82,10,Under Construction,East facing,Unfurnished,40000000000.0,25896400.0,930.0,3.0,3.0,2 Covered Parking,3,2.0,0.0
+20,20,20,800.0,10.63,5,Under Construction,North facing,Fully Furnished,40000000000.0,8504000.0,4300.0,,2.0,2,-,2.0,0.0
+21,21,21,2575.0,14.76,5,Ready to move,East facing,Semi Furnished,35000000000.0,38007000.0,950.0,3.0,2.0,2 Covered Parking,1,2.0,0.0
+22,22,22,2600.0,15.38,15,Ready to move,East facing,Fully Furnished,40000000000.0,39988000.0,1732.0,4.0,4.0,2 Covered Parking,2,2.0,0.0
+23,23,23,2283.0,17.48,15,Ready to move,East facing,Unfurnished,38000000000.0,39906840.0,1250.0,3.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+24,24,24,2100.0,16.67,12,Ready to move,North facing,Semi Furnished,15000000000.0,35007000.0,1050.0,3.0,4.0,2 Covered and 1 Open Parking,2,2.0,1.0
+25,25,25,2350.0,17.02,20,Ready to move,East facing,Semi Furnished,0.0,39997000.0,1350.0,4.0,3.0,2 Covered Parking,1,2.0,0.0
+26,26,26,2574.0,14.76,15,Ready to move,East facing,Semi Furnished,12000000000.0,37992240.0,1350.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+27,27,27,1100.0,11.82,10,Ready to move,West facing,Unfurnished,16000000000.0,13002000.0,1300.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+28,28,28,1200.0,9.17,12,Ready to move,East facing,Semi Furnished,24000000000.0,11004000.0,840.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+29,29,29,1069.0,12.25,10,Ready to move,North facing,Unfurnished,25000000000.0,13095250.0,1000.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+30,30,30,1600.0,10.31,6,Ready to move,East facing,Semi Furnished,21000000000.0,16496000.0,1100.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+31,31,31,1200.0,10.42,5,Ready to move,East facing,Unfurnished,15000000000.0,12504000.0,1650.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+32,32,32,1900.0,12.63,15,Ready to move,South facing,Semi Furnished,120000000000.0,23997000.0,1720.0,3.0,4.0,2 Covered Parking,2,2.0,0.0
+33,33,33,2800.0,7.5,10,Ready to move,East facing,Semi Furnished,13000000000.0,21000000.0,1630.0,3.0,4.0,3 Covered Parking,1,3.0,0.0
+34,34,34,1225.0,13.47,16,Ready to move,East facing,Semi Furnished,42000000000.0,16500750.0,1800.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+35,35,35,6100.0,20.49,16,Ready to move,East facing,Unfurnished,15000000000.0,124989000.0,810.0,5.0,6.0,2 Covered Parking,2,2.0,0.0
+37,37,37,2250.0,18.44,15,Ready to move,East facing,Semi Furnished,19000000000.0,41490000.0,1250.0,3.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+38,38,38,1500.0,10.0,8,Ready to move,East facing,Semi Furnished,16000000000.0,15000000.0,515.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+39,39,39,1250.0,9.28,15,Ready to move,East facing,Semi Furnished,20000000000.0,11600000.0,1200.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+40,40,40,1650.0,12.12,10,Ready to move,North facing,Semi Furnished,16000000000.0,19998000.0,500.0,3.0,4.0,1 Covered and 1 Open Parking,1,1.0,1.0
+41,41,41,1550.0,10.64,11,Ready to move,East facing,Semi Furnished,14000000000.0,16492000.0,2275.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+42,42,42,1600.0,12.5,13,Ready to move,East facing,Semi Furnished,18000000000.0,20000000.0,820.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+44,44,44,1055.0,12.8,8,Ready to move,North facing,Semi Furnished,12000000000.0,13504000.0,1600.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+45,45,45,1650.0,10.61,20,Ready to move,North facing,Unfurnished,15000000000.0,17506500.0,563.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+46,46,46,1620.0,12.28,10,Ready to move,South facing,Unfurnished,45000000000.0,19893600.0,990.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+47,47,47,1240.0,10.48,9,Ready to move,North facing,Unfurnished,16000000000.0,12995200.0,1650.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+48,48,48,1450.0,10.21,3,Ready to move,East facing,Semi Furnished,19000000000.0,14804500.000000002,1200.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+49,49,49,1850.0,18.92,10,Ready to move,South facing,Fully Furnished,30000000000.0,35002000.0,730.0,4.0,4.0,1 Covered and 1 Open Parking,4,1.0,1.0
+50,50,50,1385.0,11.55,12,Ready to move,West facing,Semi Furnished,19000000000.0,15996750.000000002,850.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+51,51,51,1205.0,9.13,10,Ready to move,North-East facing,Unfurnished,19000000000.0,11001650.000000002,919.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+52,52,52,1950.0,15.13,10,Ready to move,East facing,Semi Furnished,40000000000.0,29503500.0,900.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+53,53,53,1980.0,9.85,11,Ready to move,East facing,Semi Furnished,30000000000.0,19503000.0,1000.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+54,54,54,1970.0,9.64,11,Ready to move,East facing,Semi Furnished,35000000000.0,18990800.0,1100.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+55,55,55,2350.0,16.17,12,Ready to move,East facing,Semi Furnished,40000000000.0,37999500.00000001,850.0,3.0,4.0,1 Covered Parking,2,1.0,0.0
+56,56,56,2000.0,16.25,18,Ready to move,East facing,Semi Furnished,0.0,32500000.0,1700.0,3.0,4.0,1 Covered Parking,2,1.0,0.0
+57,57,57,2134.0,16.4,10,Ready to move,East facing,Fully Furnished,40000000000.0,34997600.0,910.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+58,58,58,2700.0,14.81,13,Ready to move,East facing,Fully Furnished,0.0,39987000.0,1350.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+59,59,59,6100.0,21.31,12,Ready to move,East facing,Semi Furnished,22000000000.000004,129991000.0,890.0,5.0,6.0,3 Covered Parking,5,3.0,0.0
+60,60,60,2350.0,16.81,15,Ready to move,East facing,Unfurnished,24000000000.0,39503500.0,1100.0,4.0,3.0,2 Covered Parking,2,2.0,0.0
+61,61,61,315.0,7.94,20,Under Construction,East facing,Semi Furnished,11000000000.000002,2501100.0,800.0,1.0,1.0,-,-,0.0,0.0
+62,62,62,1012.0,10.87,15,Ready to move,East facing,Fully Furnished,17000000000.0,11000440.0,1000.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+63,63,63,1265.0,14.7,13,Under Construction,West facing,Unfurnished,960000000000000.0,18595500.0,1655.0,,2.0,2,1 Covered Parking,2.0,0.0
+64,64,64,1600.0,10.63,20,Ready to move,East facing,Semi Furnished,0.0,17008000.0,1200.0,3.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+65,65,65,600.0,9.33,15,Ready to move,North facing,Unfurnished,20000000000.0,5598000.0,1200.0,1.0,1.0,No Parking,1,0.0,0.0
+66,66,66,1800.0,9.44,5,Ready to move,East facing,Fully Furnished,18000000000.0,16992000.0,773.0,3.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+67,67,67,1850.0,14.05,15,Ready to move,East facing,Semi Furnished,35000000000.0,25992500.0,1122.0,,3.0,3,2 Covered Parking,3.0,0.0
+68,68,68,600.0,8.0,5,Ready to move,East facing,Semi Furnished,10000000000.0,4800000.0,1800.0,1.0,2.0,1 Open Parking,No Balcony,0.0,1.0
+69,69,69,3188.0,15.87,16,Under Construction,North facing,Unfurnished,15000000000.0,50593560.0,780.0,4.0,4.0,2 Covered and 1 Open Parking,1,2.0,1.0
+70,70,70,967.0,10.13,12,Ready to move,East facing,Semi Furnished,50000000000.0,9795710.0,800.0,2.0,2.0,1 Open Parking,1,0.0,1.0
+71,71,71,950.0,10.0,20,Ready to move,East facing,Semi Furnished,18000000000.0,9500000.0,1150.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+72,72,72,1000.0,11.0,6,Ready to move,East facing,Semi Furnished,16000000000.0,11000000.0,1186.0,,2.0,2,1 Covered Parking,2.0,0.0
+73,73,73,1250.0,13.04,15,Ready to move,East facing,Unfurnished,26000000000.0,16299999.999999998,1150.0,,2.0,3,1 Covered Parking,3.0,0.0
+75,75,75,636.0,10.22,10,Ready to move,West facing,Semi Furnished,0.0,6499920.0,500.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+77,77,77,2200.0,11.36,15,Ready to move,East facing,Fully Furnished,55000000000.0,24992000.0,500.0,3.0,3.0,2 Covered and 1 Open Parking,2,2.0,1.0
+78,78,78,1000.0,9.0,13,Ready to move,West facing,Semi Furnished,20000000000.0,9000000.0,440.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+79,79,79,1500.0,11.0,18,Ready to move,East facing,Unfurnished,20000000000.0,16500000.0,1200.0,3.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+80,80,80,1800.0,14.44,10,Ready to move,East facing,Semi Furnished,30000000000.0,25992000.0,906.0,3.0,3.0,No Parking,2,0.0,0.0
+81,81,81,950.0,10.53,8,Ready to move,East facing,Fully Furnished,10000000000.0,10003500.0,976.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+82,82,82,1050.0,10.95,17,Under Construction,East facing,Unfurnished,50000000000.0,11497500.0,983.0,2.0,2.0,No Parking,1,0.0,0.0
+83,83,83,1240.0,7.66,17,Ready to move,East facing,Unfurnished,25000000000.0,9498400.0,930.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+84,84,84,4725.0,11.64,10,Ready to move,East facing,Semi Furnished,18000000000.0,54999000.0,1560.0,4.0,4.0,3 Covered Parking,3,3.0,0.0
+85,85,85,1050.0,10.57,12,Ready to move,East facing,Unfurnished,20000000000.0,11098500.0,1256.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+86,86,86,1200.0,10.58,18,Ready to move,East facing,Semi Furnished,20000000000.0,12696000.0,1250.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+87,87,87,1400.0,11.07,15,Ready to move,East facing,Semi Furnished,15000000000.0,15498000.0,1350.0,3.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+88,88,88,1000.0,9.5,20,Ready to move,East facing,Semi Furnished,20000000000.0,9500000.0,1352.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+89,89,89,2100.0,12.43,20,Ready to move,North facing,Semi Furnished,32000000000.0,26103000.0,950.0,3.0,3.0,2 Covered and 1 Open Parking,3,2.0,1.0
+90,90,90,1100.0,11.36,20,Ready to move,East facing,Semi Furnished,26000000000.0,12496000.0,1150.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+91,91,91,1650.0,11.57,20,Ready to move,East facing,Unfurnished,20000000000.0,19090500.0,840.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+92,92,92,1052.0,9.98,15,Ready to move,East facing,Unfurnished,0.0,10498960.0,804.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+93,93,93,1500.0,8.8,12,Ready to move,East facing,Semi Furnished,0.0,13200000.000000002,2275.0,3.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+94,94,94,960.0,7.81,6,Ready to move,West facing,Unfurnished,45000000000.0,7497600.0,865.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+95,95,95,1200.0,14.92,20,Ready to move,East facing,Fully Furnished,20000000000.0,17904000.0,835.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+96,96,96,1782.0,8.98,1,Ready to move,East facing,Semi Furnished,20000000000.0,16002360.0,990.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+97,97,97,1500.0,8.73,10,Ready to move,West facing,Semi Furnished,25000000000.0,13095000.0,862.0,3.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+98,98,98,1400.0,10.36,10,Ready to move,East facing,Unfurnished,18000000000.0,14504000.0,865.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+99,99,99,1043.0,13.42,10,Under Construction,East facing,Unfurnished,18000000000.0,13997060.0,1204.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+100,100,100,1514.0,12.55,15,Under Construction,East facing,Unfurnished,11000000000.000002,19000700.0,865.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+101,101,101,2200.0,21.14,20,Ready to move,East facing,Fully Furnished,18000000000.0,46508000.0,850.0,4.0,4.0,1 Covered Parking,1,1.0,0.0
+102,102,102,950.0,10.53,12,Ready to move,East facing,Semi Furnished,11000000000.000002,10003500.0,890.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+103,103,103,1000.0,11.0,8,Ready to move,East facing,Semi Furnished,10000000000.0,11000000.0,2041.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+104,104,104,1500.0,11.0,20,Ready to move,East facing,Semi Furnished,40000000000.0,16500000.0,1150.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+105,105,105,1350.0,12.59,16,Ready to move,East facing,Fully Furnished,20000000000.0,16996500.0,773.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+106,106,106,1360.0,13.23,4,Ready to move,East facing,Semi Furnished,20000000000.0,17992800.0,1420.0,3.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+107,107,107,6000.0,9.17,15,Under Construction,East facing,Semi Furnished,15000000000.0,55020000.0,870.0,,6.0,6,3 Covered and 3 Open Parking,6.0,0.0
+108,108,108,625.0,8.8,10,Ready to move,East facing,Semi Furnished,15000000000.0,5500000.0,1650.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+109,109,109,1200.0,7.08,20,Ready to move,East facing,Unfurnished,0.0,8496000.0,1250.0,3.0,3.0,No Parking,1,0.0,0.0
+110,110,110,1625.0,13.54,14,Ready to move,East facing,Unfurnished,0.0,22002500.0,680.0,,3.0,3,1 Covered Parking,3.0,0.0
+111,111,111,640.0,8.59,18,Ready to move,East facing,Unfurnished,20000000000.0,5497600.0,1507.0,1.0,1.0,1 Open Parking,1,0.0,1.0
+112,112,112,600.0,8.33,15,Ready to move,East facing,Unfurnished,21000000000.0,4998000.0,1050.0,1.0,1.0,1 Open Parking,No Balcony,0.0,1.0
+113,113,113,1480.0,14.53,15,Ready to move,East facing,Fully Furnished,16000000000.0,21504400.0,300.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+114,114,114,1104.0,9.96,15,Ready to move,North-West facing,Unfurnished,25000000000.0,10995840.000000002,475.0,2.0,2.0,No Parking,1,0.0,0.0
+115,115,115,1165.0,10.99,18,Ready to move,East facing,Unfurnished,20000000000.0,12803350.0,1480.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+116,116,116,1176.0,10.2,15,Ready to move,East facing,Unfurnished,20000000000.0,11995200.0,901.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+118,118,118,2520.0,17.86,15,Ready to move,West facing,Unfurnished,55000000000.0,45007200.0,850.0,3.0,3.0,2 Covered and 1 Open Parking,2,2.0,1.0
+119,119,119,1758.0,13.54,15,Under Construction,East facing,Unfurnished,10000000000.0,23803320.0,1675.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+120,120,120,1500.0,10.0,15,Ready to move,East facing,Fully Furnished,15000000000.0,15000000.0,1314.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+122,122,122,1523.0,10.83,10,Ready to move,East facing,Semi Furnished,10000000000.0,16494090.0,3500.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+124,124,124,1552.0,9.66,16,Ready to move,East facing,Unfurnished,10000000000.0,14992320.0,2390.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+125,125,125,1134.0,10.58,15,Ready to move,East facing,Fully Furnished,18000000000.0,11997720.0,427.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+126,126,126,915.0,10.38,10,Ready to move,North facing,Semi Furnished,15000000000.0,9497700.0,427.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+127,127,127,3188.0,17.25,15,Under Construction,East facing,Semi Furnished,15000000000.0,54993000.0,1196.0,4.0,4.0,2 Covered Parking,3,2.0,0.0
+128,128,128,986.0,9.63,18,Ready to move,West facing,Semi Furnished,10000000000.0,9495180.0,1667.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+130,130,130,4700.0,9.15,15,Ready to move,North facing,Semi Furnished,24000000000.0,43005000.0,1315.0,4.0,3.0,2 Covered Parking,2,2.0,0.0
+131,131,131,1042.0,8.64,20,Ready to move,East facing,Unfurnished,0.0,9002880.0,2500.0,2.0,2.0,No Parking,1,0.0,0.0
+132,132,132,928.0,9.7,10,Ready to move,South-East facing,Unfurnished,0.0,9001600.0,890.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+133,133,133,1105.0,8.14,18,Ready to move,East facing,Unfurnished,20000000000.0,8994700.0,1680.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+134,134,134,1582.0,11.13,15,Ready to move,East facing,Fully Furnished,33000000000.0,17607660.0,898.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+135,135,135,1108.0,8.57,1,Ready to move,East facing,Unfurnished,50000000000.0,9495560.0,1250.0,2.0,2.0,No Parking,1,0.0,0.0
+136,136,136,1000.0,9.0,3,Ready to move,South-East facing,Unfurnished,34000000000.0,9000000.0,900.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+137,137,137,1012.0,9.39,12,Ready to move,East facing,Unfurnished,0.0,9502680.0,1400.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+139,139,139,1550.0,15.16,3,Ready to move,East facing,Fully Furnished,0.0,23498000.0,740.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+140,140,140,1043.0,15.34,12,Under Construction,East facing,Unfurnished,33000000000.0,15999620.0,1255.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+141,141,141,1917.0,14.61,6,Under Construction,East facing,Unfurnished,32000000000.0,28007370.0,1800.0,3.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+142,142,142,950.0,10.0,9,Ready to move,West facing,Fully Furnished,0.0,9500000.0,805.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+143,143,143,1850.0,17.57,20,Ready to move,West facing,Semi Furnished,16000000000.0,32504500.0,805.0,3.0,4.0,2 Covered Parking,2,2.0,0.0
+144,144,144,2000.0,12.0,15,Ready to move,East facing,Semi Furnished,12000000000.0,24000000.0,806.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+145,145,145,1450.0,11.72,5,Ready to move,East facing,Unfurnished,30000000000.0,16994000.0,1230.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+146,146,146,762.0,8.14,5,Ready to move,East facing,Unfurnished,0.0,6202680.0,3700.0,2.0,2.0,-,No Balcony,0.0,0.0
+147,147,147,632.0,7.83,15,Ready to move,North facing,Semi Furnished,14000000000.0,4948560.0,804.0,1.0,1.0,-,-,0.0,0.0
+148,148,148,416.0,6.01,10,Ready to move,East facing,Semi Furnished,42000000000.0,2500160.0,1200.0,1.0,1.0,No Parking,No Balcony,0.0,0.0
+149,149,149,1700.0,9.71,10,Ready to move,East facing,Fully Furnished,35000000000.0,16507000.000000002,2300.0,3.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+150,150,150,1350.0,11.85,8,Ready to move,East facing,Semi Furnished,36000000000.0,15997500.0,1053.0,3.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+151,151,151,350.0,11.43,15,Ready to move,East facing,Fully Furnished,68000000000.0,4000500.0,1240.0,1.0,1.0,1 Open Parking,No Balcony,0.0,1.0
+152,152,152,963.0,8.1,1,Ready to move,East facing,Semi Furnished,40999999999.99999,7800300.0,1200.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+153,153,153,550.0,10.54,10,Ready to move,West facing,Semi Furnished,0.0,5796999.999999999,426.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+154,154,154,1998.0,15.02,10,Ready to move,East facing,Semi Furnished,0.0,30009960.0,2800.0,4.0,3.0,2 Covered Parking,1,2.0,0.0
+155,155,155,1216.0,17.27,10,Under Construction,East facing,Unfurnished,14000000000.0,21000320.0,1056.0,2.0,2.0,2 Covered Parking,2,2.0,0.0
+156,156,156,2073.0,16.88,10,Ready to move,East facing,Unfurnished,0.0,34992240.0,1053.0,,4.0,4,2 Covered Parking,4.0,0.0
+158,158,158,1015.0,17.73,15,Ready to move,East facing,Fully Furnished,0.0,17995950.0,683.0,,2.0,2,1 Covered Parking,2.0,0.0
+159,159,159,1900.0,22.11,10,Ready to move,East facing,Semi Furnished,10000000000.0,42009000.0,428.0,4.0,4.0,3 Covered Parking,2,3.0,0.0
+160,160,160,1866.0,18.76,16,Ready to move,East facing,Semi Furnished,13000000000.0,35006160.0,1257.0,4.0,4.0,1 Covered Parking,2,1.0,0.0
+161,161,161,2500.0,14.4,5,Ready to move,East facing,Semi Furnished,0.0,36000000.0,1250.0,4.0,4.0,2 Covered Parking,1,2.0,0.0
+162,162,162,3363.0,20.37,3,Ready to move,East facing,Semi Furnished,31000000000.0,68504310.0,1196.0,4.0,4.0,3 Covered Parking,2,3.0,0.0
+163,163,163,1250.0,17.44,1,Under Construction,East facing,Unfurnished,0.0,21800000.0,1968.0,,2.0,2,1 Covered and 1 Open Parking,2.0,0.0
+164,164,164,3200.0,7.81,1,Ready to move,West facing,Semi Furnished,18000000000.0,24992000.0,811.0,,5.0,4,No Parking,4.0,0.0
+165,165,165,4500.0,9.09,10,Ready to move,East facing,Fully Furnished,0.0,40905000.0,3200.0,4.0,4.0,2 Covered and 2 Open Parking,2,2.0,2.0
+166,166,166,1052.0,7.13,9,Under Construction,North facing,Unfurnished,0.0,7500760.0,850.0,,2.0,2,1 Covered Parking,2.0,0.0
+168,168,168,580.0,8.1,10,Under Construction,East facing,Unfurnished,0.0,4698000.0,1123.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+169,169,169,1500.0,9.0,15,Ready to move,East facing,Unfurnished,0.0,13500000.0,1574.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+170,170,170,620.0,6.61,10,Under Construction,East facing,Unfurnished,0.0,4098200.0,1657.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+171,171,171,1614.0,9.73,15,Under Construction,East facing,Semi Furnished,0.0,15704220.0,1250.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+172,172,172,2167.0,8.43,6,Under Construction,East facing,Unfurnished,24000000000.0,18267810.0,815.0,4.0,4.0,2 Covered and 1 Open Parking,4,2.0,1.0
+173,173,173,1350.0,8.52,10,Ready to move,North-East facing,Unfurnished,0.0,11502000.0,682.0,,2.0,2,1 Covered and 1 Open Parking,2.0,0.0
+174,174,174,1560.0,6.6,20,Ready to move,East facing,Semi Furnished,0.0,10296000.0,5200.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+176,176,176,1700.0,7.94,10,Under Construction,East facing,Semi Furnished,11000000000.000002,13498000.0,1068.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+177,177,177,3200.0,9.84,10,Ready to move,East facing,Unfurnished,50000000000.0,31488000.0,1053.0,6.0,6.0,3 Covered and 1 Open Parking,2,3.0,1.0
+178,178,178,1196.0,6.69,20,Under Construction,West facing,Unfurnished,0.0,8001240.000000001,1053.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+179,179,179,2533.0,7.22,2,Ready to move,East facing,Semi Furnished,19000000000.0,18288260.0,1200.0,3.0,3.0,1 Covered Parking,No Balcony,1.0,0.0
+180,180,180,1200.0,6.29,10,Under Construction,East facing,Unfurnished,0.0,7548000.0,1500.0,3.0,2.0,2 Covered and 2 Open Parking,1,2.0,2.0
+181,181,181,1550.0,7.03,10,Ready to move,East facing,Unfurnished,11000000000.000002,10896500.0,807.0,3.0,3.0,1 Covered and 1 Open Parking,3,1.0,1.0
+182,182,182,1150.0,7.22,1,Ready to move,East facing,Unfurnished,0.0,8303000.0,750.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+183,183,183,1700.0,10.29,1,Ready to move,East facing,Unfurnished,24000000000.0,17493000.0,1660.0,3.0,3.0,2 Covered and 2 Open Parking,3,2.0,2.0
+185,185,185,1020.0,6.37,1,Under Construction,East facing,Unfurnished,20000000000.0,6497400.0,1060.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+188,188,188,2500.0,9.0,1,Ready to move,East facing,Unfurnished,30000000000.0,22500000.0,833.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+189,189,189,1400.0,6.14,10,Under Construction,North-East facing,Semi Furnished,0.0,8596000.0,750.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+190,190,190,1086.0,9.12,1,Under Construction,East facing,Unfurnished,0.0,9904320.0,2300.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+191,191,191,1086.0,7.73,10,Under Construction,East facing,Unfurnished,0.0,8394780.0,1800.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+192,192,192,1567.0,7.34,5,Ready to move,East facing,Unfurnished,0.0,11501780.0,2900.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+193,193,193,4800.0,6.04,2,Ready to move,West facing,Unfurnished,0.0,28992000.0,4000.0,4.0,5.0,4 Covered Parking,1,4.0,0.0
+194,194,194,1085.0,8.39,10,Under Construction,West facing,Unfurnished,13000000000.0,9103150.0,1240.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+195,195,195,1700.0,10.88,12,Ready to move,East facing,Unfurnished,0.0,18496000.0,420.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+197,197,197,1572.0,7.0,5,Ready to move,East facing,Semi Furnished,0.0,11004000.0,1240.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+198,198,198,1475.0,8.8,15,Ready to move,West facing,Unfurnished,42000000000.0,12980000.000000002,1800.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+199,199,199,3500.0,6.86,10,Ready to move,East facing,Semi Furnished,14000000000.0,24010000.0,1157.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+200,200,200,1500.0,7.6,10,Ready to move,East facing,Semi Furnished,10000000000.0,11400000.0,1600.0,3.0,1.0,1 Covered Parking,3,1.0,0.0
+201,201,201,1755.0,5.7,10,Ready to move,East facing,Unfurnished,20000000000.0,10003500.0,1450.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+202,202,202,1155.0,11.43,10,Under Construction,East facing,Unfurnished,40000000000.0,13201650.0,2000.0,3.0,2.0,No Parking,2,0.0,0.0
+203,203,203,600.0,5.95,10,Under Construction,East facing,Unfurnished,0.0,3570000.0,2100.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+204,204,204,4000.0,7.75,10,Ready to move,East facing,Semi Furnished,0.0,31000000.0,1200.0,4.0,4.0,2 Covered Parking,2,2.0,0.0
+205,205,205,1425.0,7.51,5,Under Construction,East facing,Unfurnished,0.0,10701750.0,1100.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+206,206,206,1421.0,9.43,10,Under Construction,East facing,Unfurnished,0.0,13400030.0,1150.0,3.0,3.0,2 Covered and 2 Open Parking,1,2.0,2.0
+207,207,207,1293.0,5.96,10,Ready to move,East facing,Unfurnished,0.0,7706280.0,1350.0,,3.0,3,2 Covered Parking,3.0,0.0
+210,210,210,1970.0,5.94,10,Ready to move,East facing,Unfurnished,0.0,11701800.0,1200.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+211,211,211,1700.0,7.94,10,Ready to move,West facing,Unfurnished,10000000000.0,13498000.0,1350.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+213,213,213,2644.0,10.4,10,Under Construction,West facing,Unfurnished,0.0,27497600.0,1150.0,4.0,4.0,1 Covered Parking,2,1.0,0.0
+214,214,214,1400.0,6.29,10,Under Construction,East facing,Semi Furnished,10000000000.0,8806000.0,1350.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+215,215,215,4800.0,6.46,10,Ready to move,East facing,Fully Furnished,18000000000.0,31008000.0,1900.0,4.0,4.0,2 Covered and 1 Open Parking,2,2.0,1.0
+216,216,216,1100.0,6.36,10,Ready to move,West facing,Semi Furnished,15000000000.0,6996000.0,2200.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+217,217,217,1550.0,5.1,10,Under Construction,West facing,Unfurnished,10000000000.0,7904999.999999999,3300.0,,3.0,3,2 Covered and 1 Open Parking,3.0,0.0
+218,218,218,1570.0,6.3,10,Ready to move,East facing,Semi Furnished,0.0,9891000.0,2100.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+219,219,219,3200.0,6.25,10,Ready to move,West facing,Unfurnished,899990000000000.0,20000000.0,1400.0,3.0,4.0,2 Covered Parking,2,2.0,0.0
+220,220,220,3250.0,6.15,10,Ready to move,East facing,Unfurnished,23000000000.0,19987500.0,2090.0,3.0,4.0,2 Covered Parking,2,2.0,0.0
+221,221,221,1517.0,10.22,10,Ready to move,East facing,Unfurnished,25000000000.0,15503740.000000002,1290.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+222,222,222,2125.0,9.88,15,Under Construction,East facing,Unfurnished,10000000000.0,20995000.0,1600.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+223,223,223,2235.0,8.95,10,Under Construction,East facing,Unfurnished,0.0,20003250.0,755.0,4.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+224,224,224,1450.0,8.34,10,Under Construction,East facing,Fully Furnished,20000000000.0,12093000.0,1600.0,3.0,3.0,2 Covered and 2 Open Parking,2,2.0,2.0
+225,225,225,1150.0,6.52,10,Under Construction,East facing,Unfurnished,0.0,7497999.999999999,1053.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+226,226,226,982.0,5.4,10,Under Construction,East facing,Unfurnished,15000000000.0,5302800.0,814.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+227,227,227,6150.0,7.72,10,Ready to move,East facing,Semi Furnished,40000000000.0,47478000.0,1560.0,4.0,4.0,3 Covered and 3 Open Parking,3,3.0,3.0
+228,228,228,4650.0,6.67,11,Ready to move,East facing,Fully Furnished,0.0,31015500.0,980.0,,3.0,5,2 Covered and 2 Open Parking,5.0,0.0
+229,229,229,1400.0,8.57,13,Under Construction,East facing,Semi Furnished,25000000000.0,11998000.0,1443.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+230,230,230,1100.0,7.09,10,Ready to move,East facing,Semi Furnished,15000000000.0,7799000.0,835.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+231,231,231,1475.0,10.1,5,Ready to move,East facing,Unfurnished,0.0,14897500.0,882.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+232,232,232,1475.0,10.17,5,Ready to move,East facing,Unfurnished,32000000000.0,15000750.0,430.0,3.0,1.0,1 Covered Parking,2,1.0,0.0
+234,234,234,1700.0,7.35,1,Ready to move,East facing,Semi Furnished,22000000000.000004,12495000.0,1056.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+235,235,235,1675.0,5.37,5,Ready to move,East facing,Semi Furnished,40999999999.99999,8994750.0,743.0,3.0,2.0,2 Covered Parking,3,2.0,0.0
+236,236,236,1150.0,6.78,10,Ready to move,East facing,Semi Furnished,11000000000.000002,7797000.0,426.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+237,237,237,1089.0,9.09,10,Under Construction,East facing,Semi Furnished,0.0,9899010.0,1200.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+238,238,238,1100.0,5.91,10,Ready to move,East facing,Semi Furnished,12000000000.0,6501000.0,1030.0,2.0,4.0,No Parking,No Balcony,0.0,0.0
+239,239,239,2700.0,8.7,10,Ready to move,East facing,Semi Furnished,15000000000.0,23490000.0,740.0,3.0,4.0,2 Covered Parking,2,2.0,0.0
+240,240,240,2540.0,9.84,5,Ready to move,East facing,Fully Furnished,900000000000000.0,24993600.0,1150.0,3.0,2.0,2 Covered Parking,3,2.0,0.0
+241,241,241,1100.0,6.36,10,Ready to move,East facing,Semi Furnished,10000000000.0,6996000.0,772.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+242,242,242,2241.0,8.52,12,Ready to move,East facing,Semi Furnished,10000000000.0,19093320.0,890.0,4.0,2.0,3 Covered Parking,3,3.0,0.0
+243,243,243,1469.0,5.45,10,Ready to move,East facing,Unfurnished,28000000000.0,8006050.0,811.0,,3.0,2,1 Covered and 1 Open Parking,2.0,0.0
+244,244,244,2533.0,7.3,8,Ready to move,East facing,Semi Furnished,750000000000000.0,18490900.0,1062.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+245,245,245,1450.0,8.34,5,Ready to move,East facing,Unfurnished,45000000000.0,12093000.0,820.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+246,246,246,1596.0,6.2,3,Ready to move,East facing,Semi Furnished,0.0,9895200.0,539.0,3.0,6.0,1 Covered and 1 Open Parking,3,1.0,1.0
+248,248,248,555.0,8.47,1,Under Construction,East facing,Unfurnished,13000000000.0,4700850.0,1120.0,,3.0,1,1 Covered and 1 Open Parking,1.0,0.0
+249,249,249,1152.0,7.99,2,Under Construction,East facing,Unfurnished,19000000000.0,9204480.0,1056.0,,2.0,3,1 Covered and 1 Open Parking,3.0,0.0
+250,250,250,1125.0,7.91,20,Ready to move,East facing,Unfurnished,24000000000.0,8898750.0,743.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+251,251,251,3700.0,6.89,10,Ready to move,East facing,Semi Furnished,11000000000.000002,25493000.0,1350.0,4.0,3.0,1 Covered Parking,5,1.0,0.0
+252,252,252,1550.0,8.71,10,Ready to move,East facing,Semi Furnished,11000000000.000002,13500500.000000002,685.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+253,253,253,1600.0,8.44,10,Ready to move,East facing,Semi Furnished,10000000000.0,13504000.0,887.0,,2.0,3,1 Covered Parking,3.0,0.0
+254,254,254,1050.0,5.81,1,Under Construction,East facing,Unfurnished,950000000000000.0,6100500.0,980.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+255,255,255,4800.0,6.67,10,Ready to move,East facing,Unfurnished,11000000000.000002,32016000.0,770.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+256,256,256,2700.0,7.78,1,Ready to move,East facing,Unfurnished,950000000000000.0,21006000.0,1070.0,3.0,5.0,2 Covered Parking,2,2.0,0.0
+257,257,257,3708.0,6.74,10,Ready to move,East facing,Semi Furnished,990000000000000.0,24991920.0,810.0,4.0,6.0,2 Covered Parking,2,2.0,0.0
+258,258,258,7200.0,5.42,4,Ready to move,East facing,Semi Furnished,11000000000.000002,39024000.0,732.0,5.0,3.0,3 Covered and 1 Open Parking,2,3.0,1.0
+259,259,259,1500.0,7.67,10,Ready to move,East facing,Semi Furnished,610000000000000.0,11505000.0,810.0,3.0,1.0,1 Covered Parking,3,1.0,0.0
+260,260,260,580.0,5.69,20,Under Construction,East facing,Unfurnished,25000000000.0,3300200.0,1560.0,1.0,5.0,1 Open Parking,1,0.0,1.0
+261,261,261,8000.0,10.49,1,Ready to move,East facing,Semi Furnished,29000000000.0,83920000.0,1479.0,,3.0,6,4 Covered and 2 Open Parking,6.0,0.0
+262,262,262,1680.0,7.14,5,Ready to move,East facing,Semi Furnished,40000000000.0,11995200.0,790.0,4.0,3.0,1 Covered Parking,1,1.0,0.0
+263,263,263,1515.0,6.53,30,Ready to move,East facing,Semi Furnished,24000000000.0,9892950.0,430.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+264,264,264,3600.0,6.8,15,Ready to move,East facing,Semi Furnished,19000000000.0,24480000.0,740.0,,2.0,4,1 Covered and 1 Open Parking,4.0,0.0
+265,265,265,1000.0,7.8,7,Ready to move,East facing,Semi Furnished,0.0,7800000.0,1030.0,,2.0,2,1 Covered Parking,2.0,0.0
+268,268,268,1520.0,6.58,10,Ready to move,West facing,Semi Furnished,0.0,10001600.0,900.0,3.0,4.0,1 Covered Parking,1,1.0,0.0
+269,269,269,2500.0,11.2,5,Ready to move,East facing,Fully Furnished,0.0,28000000.0,950.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+270,270,270,1070.0,6.92,12,Ready to move,East facing,Semi Furnished,860000000000000.0,7404400.0,800.0,2.0,5.0,1 Covered Parking,2,1.0,0.0
+271,271,271,5300.0,8.02,5,Ready to move,North facing,Fully Furnished,750000000000000.0,42506000.0,834.0,4.0,3.0,2 Covered Parking,2,2.0,0.0
+274,274,274,1900.0,6.74,7,Ready to move,East facing,Semi Furnished,0.0,12806000.0,900.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+275,275,275,2533.0,7.5,15,Ready to move,East facing,Unfurnished,21000000000.0,18997500.0,1280.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+276,276,276,2700.0,8.7,1,Ready to move,East facing,Unfurnished,10000000000.0,23490000.0,814.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+277,277,277,1550.0,7.42,10,Ready to move,East facing,Unfurnished,0.0,11501000.0,1250.0,3.0,1.0,2 Covered Parking,1,2.0,0.0
+278,278,278,1450.0,7.24,12,Ready to move,East facing,Unfurnished,0.0,10498000.0,2100.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+280,280,280,1650.0,5.76,10,Ready to move,East facing,Unfurnished,0.0,9504000.0,811.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+281,281,281,1750.0,7.71,12,Ready to move,East facing,Fully Furnished,0.0,13492500.0,795.0,,3.0,3,2 Covered Parking,3.0,0.0
+283,283,283,1500.0,7.67,15,Ready to move,East facing,Fully Furnished,0.0,11505000.0,1771.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+284,284,284,1650.0,5.64,15,Ready to move,East facing,Unfurnished,20000000000.0,9306000.0,1056.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+285,285,285,2100.0,7.62,11,Ready to move,East facing,Semi Furnished,26000000000.0,16002000.0,2200.0,,3.0,3,1 Covered Parking,3.0,0.0
+286,286,286,1475.0,6.71,6,Ready to move,East facing,Unfurnished,11000000000.000002,9897250.0,2100.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+287,287,287,1650.0,6.97,9,Ready to move,East facing,Fully Furnished,900000000000000.0,11500500.0,850.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+288,288,288,1050.0,5.81,2,Ready to move,East facing,Semi Furnished,11000000000.000002,6100500.0,1675.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+289,289,289,2533.0,9.87,8,Ready to move,East facing,Fully Furnished,0.0,25000710.0,736.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+290,290,290,3400.0,8.53,8,Ready to move,East facing,Unfurnished,10000000000.0,29002000.0,1056.0,3.0,4.0,2 Covered Parking,1,2.0,0.0
+291,291,291,4650.0,8.58,10,Ready to move,East facing,Unfurnished,0.0,39897000.0,835.0,4.0,3.0,2 Covered Parking,2,2.0,0.0
+292,292,292,2700.0,8.85,7,Ready to move,East facing,Unfurnished,0.0,23895000.0,813.0,3.0,2.0,2 Covered Parking,1,2.0,0.0
+293,293,293,2600.0,7.31,6,Ready to move,East facing,Unfurnished,0.0,19006000.0,833.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+294,294,294,2400.0,11.46,15,Ready to move,East facing,Unfurnished,0.0,27504000.000000004,795.0,4.0,3.0,2 Covered and 2 Open Parking,3,2.0,2.0
+295,295,295,1490.0,7.52,11,Ready to move,West facing,Unfurnished,45000000000.0,11204800.0,1500.0,3.0,3.0,1 Covered and 1 Open Parking,3,1.0,1.0
+296,296,296,1900.0,9.95,10,Ready to move,North-East facing,Unfurnished,0.0,18905000.0,700.0,3.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+297,297,297,1090.0,4.04,10,Ready to move,East facing,Unfurnished,0.0,4403600.0,810.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+298,298,298,2100.0,8.48,12,Ready to move,East facing,Unfurnished,0.0,17808000.0,1680.0,3.0,2.0,2 Covered and 2 Open Parking,3,2.0,2.0
+299,299,299,1170.0,7.35,5,Ready to move,East facing,Semi Furnished,0.0,8599500.0,1630.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+300,300,300,1050.0,6.86,5,Ready to move,East facing,Fully Furnished,0.0,7203000.0,1800.0,2.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+301,301,301,1475.0,10.03,3,Ready to move,North-East facing,Unfurnished,14000000000.0,14794249.999999998,1160.0,3.0,1.0,1 Covered Parking,2,1.0,0.0
+302,302,302,3500.0,10.14,3,Ready to move,North-East facing,Semi Furnished,900000000000000.0,35490000.0,1100.0,4.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+303,303,303,1090.0,6.61,10,Ready to move,East facing,Unfurnished,0.0,7204900.0,1150.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+304,304,304,2100.0,10.0,2,Ready to move,East facing,Semi Furnished,0.0,21000000.0,900.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+305,305,305,1250.0,7.2,10,Ready to move,East facing,Semi Furnished,0.0,9000000.0,1350.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+306,306,306,2100.0,11.19,10,Under Construction,East facing,Unfurnished,0.0,23499000.0,800.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+307,307,307,1200.0,6.76,20,Ready to move,East facing,Unfurnished,12000000000.0,8112000.0,800.0,3.0,1.0,1 Covered Parking,1,1.0,0.0
+308,308,308,1200.0,6.56,8,Under Construction,West facing,Unfurnished,17000000000.0,7871999.999999999,4300.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+309,309,309,560.0,5.95,10,Under Construction,East facing,Unfurnished,0.0,3332000.0,950.0,1.0,3.0,1 Open Parking,1,0.0,1.0
+310,310,310,1160.0,4.91,10,Ready to move,East facing,Unfurnished,33000000000.0,5695600.0,845.0,,2.0,2,1 Covered Parking,2.0,0.0
+311,311,311,1300.0,8.23,15,Under Construction,East facing,Semi Furnished,0.0,10699000.0,818.0,3.0,1.0,2 Covered Parking,3,2.0,0.0
+312,312,312,1010.0,7.67,15,Under Construction,East facing,Fully Furnished,0.0,7746700.0,1000.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+313,313,313,590.0,5.95,12,Under Construction,East facing,Unfurnished,0.0,3510500.0,1000.0,1.0,3.0,1 Covered Parking,1,1.0,0.0
+314,314,314,1600.0,6.88,15,Ready to move,East facing,Semi Furnished,0.0,11008000.0,950.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+315,315,315,2533.0,10.46,12,Ready to move,South facing,Fully Furnished,14000000000.0,26495180.000000004,1050.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+316,316,316,1450.0,7.24,12,Ready to move,West facing,Semi Furnished,0.0,10498000.0,1550.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+317,317,317,1200.0,7.5,10,Ready to move,East facing,Semi Furnished,0.0,9000000.0,1290.0,2.0,3.0,1 Covered Parking,3,1.0,0.0
+319,319,319,1800.0,6.67,15,Under Construction,East facing,Fully Furnished,0.0,12006000.0,1500.0,3.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+320,320,320,1000.0,5.5,15,Ready to move,East facing,Semi Furnished,0.0,5500000.0,1280.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+321,321,321,1402.0,6.69,10,Under Construction,East facing,Unfurnished,0.0,9379380.0,350.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+322,322,322,1000.0,6.85,15,Under Construction,East facing,Unfurnished,0.0,6850000.0,2340.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+323,323,323,1552.0,6.62,13,Ready to move,East facing,Unfurnished,0.0,10274240.0,982.0,3.0,5.0,1 Covered Parking,1,1.0,0.0
+324,324,324,1045.0,6.68,20,Under Construction,North-East facing,Unfurnished,0.0,6980600.0,980.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+326,326,326,3800.0,9.61,10,Under Construction,West facing,Semi Furnished,0.0,36518000.0,1400.0,4.0,2.0,2 Covered Parking,4,2.0,0.0
+327,327,327,1224.0,6.52,10,Under Construction,East facing,Unfurnished,0.0,7980479.999999999,1250.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+328,328,328,1100.0,7.18,9,Under Construction,East facing,Unfurnished,0.0,7898000.0,1050.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+329,329,329,1475.0,7.93,15,Under Construction,East facing,Unfurnished,0.0,11696750.0,800.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+330,330,330,3200.0,9.38,10,Under Construction,West facing,Semi Furnished,15000000000.0,30016000.000000004,1300.0,4.0,1.0,2 Covered Parking,4,2.0,0.0
+331,331,331,1060.0,6.51,3,Ready to move,North-East facing,Semi Furnished,0.0,6900600.0,1500.0,2.0,1.0,1 Open Parking,2,0.0,1.0
+332,332,332,1100.0,8.18,12,Ready to move,East facing,Semi Furnished,0.0,8998000.0,1560.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+334,334,334,1725.0,8.12,12,Under Construction,East facing,Semi Furnished,0.0,14006999.999999998,1600.0,,3.0,3,2 Covered Parking,3.0,0.0
+335,335,335,1512.0,7.35,7,Under Construction,East facing,Unfurnished,11000000000.000002,11113200.0,1220.0,3.0,2.0,2 Covered and 1 Open Parking,2,2.0,1.0
+336,336,336,1400.0,8.36,12,Under Construction,North-East facing,Semi Furnished,10000000000.0,11704000.0,800.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+337,337,337,1100.0,7.18,5,Under Construction,East facing,Unfurnished,0.0,7898000.0,1150.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+338,338,338,1800.0,6.67,6,Ready to move,East facing,Unfurnished,10000000000.0,12006000.0,1000.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+339,339,339,2080.0,8.17,6,Ready to move,East facing,Unfurnished,34000000000.0,16993600.0,1130.0,3.0,3.0,1 Open Parking,3,0.0,1.0
+340,340,340,1822.0,7.13,5,Ready to move,East facing,Unfurnished,0.0,12990860.0,800.0,3.0,2.0,2 Covered Parking,1,2.0,0.0
+341,341,341,4000.0,8.13,6,Ready to move,North-West facing,Semi Furnished,25000000000.0,32520000.000000004,500.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+342,342,342,1200.0,8.08,12,Under Construction,East facing,Fully Furnished,0.0,9696000.0,908.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+343,343,343,976.0,4.54,10,Under Construction,East facing,Unfurnished,870000000000000.0,4431040.0,800.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+344,344,344,1068.0,11.42,8,Under Construction,North-West facing,Unfurnished,0.0,12196560.0,850.0,3.0,2.0,1 Covered Parking,No Balcony,1.0,0.0
+345,345,345,1200.0,7.29,15,Under Construction,West facing,Unfurnished,0.0,8748000.0,900.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+346,346,346,1000.0,7.7,5,Ready to move,East facing,Fully Furnished,0.0,7700000.0,1000.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+347,347,347,990.0,7.27,10,Under Construction,East facing,Unfurnished,0.0,7197300.0,1650.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+348,348,348,1459.0,8.7,15,Under Construction,East facing,Semi Furnished,0.0,12693299.999999998,750.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+349,349,349,1130.0,7.26,1,Under Construction,West facing,Semi Furnished,0.0,8203800.0,450.0,2.0,4.0,1 Covered and 1 Open Parking,1,1.0,1.0
+350,350,350,980.0,7.35,1,Under Construction,East facing,Unfurnished,0.0,7203000.0,800.0,2.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+351,351,351,1130.0,8.58,1,Under Construction,East facing,Semi Furnished,0.0,9695400.0,850.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+352,352,352,2100.0,10.0,12,Under Construction,East facing,Semi Furnished,0.0,21000000.0,1538.0,3.0,1.0,2 Covered and 1 Open Parking,2,2.0,1.0
+353,353,353,1900.0,9.95,12,Under Construction,East facing,Semi Furnished,0.0,18905000.0,850.0,3.0,2.0,2 Covered and 1 Open Parking,2,2.0,1.0
+354,354,354,1000.0,8.0,15,Under Construction,East facing,Semi Furnished,0.0,8000000.0,600.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+355,355,355,550.0,6.54,15,Under Construction,East facing,Semi Furnished,0.0,3597000.0,1350.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+356,356,356,960.0,6.77,3,Under Construction,East facing,Semi Furnished,0.0,6499200.0,950.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+357,357,357,1500.0,8.67,10,Under Construction,North facing,Unfurnished,24000000000.0,13005000.0,600.0,3.0,3.0,No Parking,3,0.0,0.0
+358,358,358,1200.0,7.25,5,Under Construction,North facing,Unfurnished,490000000000000.0,8700000.0,830.0,2.0,3.0,No Parking,2,0.0,0.0
+359,359,359,1350.0,5.54,5,Under Construction,East facing,Semi Furnished,0.0,7479000.0,2000.0,3.0,3.0,2 Covered and 1 Open Parking,3,2.0,1.0
+360,360,360,1170.0,9.4,1,Ready to move,South facing,Unfurnished,0.0,10998000.0,900.0,,1.0,3,No Parking,3.0,0.0
+361,361,361,1170.0,9.4,3,Ready to move,North facing,Unfurnished,0.0,10998000.0,1150.0,,2.0,3,No Parking,3.0,0.0
+362,362,362,1200.0,6.25,1,Under Construction,West facing,Semi Furnished,13000000000.0,7500000.0,818.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+363,363,363,1106.0,6.96,7,Ready to move,North facing,Unfurnished,10000000000.0,7697760.0,406.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+364,364,364,650.0,6.46,5,Under Construction,East facing,Semi Furnished,0.0,4199000.0,1250.0,1.0,3.0,1 Covered Parking,1,1.0,0.0
+365,365,365,1100.0,6.54,13,Under Construction,West facing,Semi Furnished,53000000000.0,7194000.0,561.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+366,366,366,1400.0,6.21,9,Under Construction,East facing,Semi Furnished,0.0,8694000.0,850.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+367,367,367,1100.0,6.36,4,Under Construction,East facing,Unfurnished,24000000000.0,6996000.0,1671.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+368,368,368,1250.0,9.2,3,Ready to move,East facing,Unfurnished,30000000000.0,11500000.0,565.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+369,369,369,1750.0,5.71,5,Ready to move,East facing,Fully Furnished,18000000000.0,9992500.0,1750.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+370,370,370,1125.0,6.49,2,Under Construction,North facing,Unfurnished,13000000000.0,7301250.0,1200.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+371,371,371,1100.0,7.54,3,Ready to move,East facing,Unfurnished,10000000000.0,8294000.0,1000.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+372,372,372,1010.0,6.73,1,Ready to move,East facing,Unfurnished,12000000000.0,6797300.0,500.0,,3.0,2,1 Covered Parking,2.0,0.0
+373,373,373,2800.0,12.14,4,Ready to move,East facing,Fully Furnished,17000000000.0,33992000.0,2377.0,3.0,2.0,3 Covered Parking,3,3.0,0.0
+374,374,374,2000.0,4.6,6,Under Construction,East facing,Unfurnished,11000000000.000002,9200000.0,1029.0,,3.0,4,2 Covered Parking,4.0,0.0
+375,375,375,1189.0,6.22,8,Under Construction,East facing,Unfurnished,10000000000.0,7395580.0,406.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+376,376,376,1700.0,7.53,2,Ready to move,East facing,Unfurnished,0.0,12801000.0,702.0,3.0,4.0,2 Covered Parking,1,2.0,0.0
+377,377,377,1090.0,6.88,2,Ready to move,East facing,Unfurnished,10000000000.0,7499200.0,800.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+378,378,378,1500.0,5.8,10,Ready to move,East facing,Unfurnished,21000000000.0,8700000.0,1060.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+379,379,379,1580.0,6.96,5,Ready to move,East facing,Unfurnished,15000000000.0,10996800.0,770.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+380,380,380,2400.0,10.21,8,Ready to move,East facing,Unfurnished,0.0,24504000.000000004,605.0,4.0,4.0,2 Covered and 2 Open Parking,3,2.0,2.0
+381,381,381,1667.0,6.6,4,Under Construction,East facing,Unfurnished,18000000000.0,11002200.0,1060.0,,3.0,3,2 Covered Parking,3.0,0.0
+383,383,383,1073.0,6.06,2,Under Construction,North facing,Unfurnished,11000000000.000002,6502380.0,1135.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+384,384,384,2038.0,6.38,3,Under Construction,South facing,Semi Furnished,11000000000.000002,13002440.0,3600.0,,3.0,4,2 Covered Parking,4.0,0.0
+385,385,385,2390.0,9.12,1,Under Construction,East facing,Unfurnished,13000000000.0,21796800.0,820.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+386,386,386,1425.0,8.63,1,Under Construction,East facing,Unfurnished,25000000000.0,12297750.000000002,980.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+387,387,387,2700.0,8.89,16,Ready to move,East facing,Semi Furnished,15000000000.0,24003000.0,980.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+388,388,388,2100.0,10.95,3,Ready to move,North facing,Semi Furnished,27000000000.0,22995000.0,950.0,3.0,4.0,1 Covered Parking,1,1.0,0.0
+389,389,389,1050.0,7.24,10,Ready to move,East facing,Semi Furnished,15000000000.0,7602000.0,1393.0,2.0,3.0,1 Open Parking,1,0.0,1.0
+390,390,390,1800.0,4.83,5,Ready to move,South facing,Semi Furnished,0.0,8694000.0,750.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+391,391,391,820.0,10.66,5,Ready to move,South facing,Unfurnished,25000000000.0,8741200.0,877.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+392,392,392,2244.0,11.14,1,Under Construction,East facing,Fully Furnished,13000000000.0,24998160.0,810.0,3.0,2.0,1 Covered and 2 Open Parking,2,1.0,2.0
+393,393,393,1478.0,7.92,4,Ready to move,East facing,Semi Furnished,10000000000.0,11705760.0,1395.0,3.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+394,394,394,2850.0,8.6,7,Ready to move,East facing,Unfurnished,18000000000.0,24510000.0,1750.0,3.0,2.0,2 Covered and 2 Open Parking,3,2.0,2.0
+395,395,395,1200.0,4.08,1,Ready to move,East facing,Semi Furnished,16000000000.0,4896000.0,3450.0,2.0,4.0,1 Covered and 3 Open Parking,1,1.0,3.0
+396,396,396,1001.0,7.99,2,Under Construction,East facing,Unfurnished,14000000000.0,7997990.0,805.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+397,397,397,1250.0,7.76,1,Under Construction,North facing,Unfurnished,11000000000.000002,9700000.0,730.0,2.0,2.0,1 Covered and 2 Open Parking,2,1.0,2.0
+398,398,398,1097.0,6.75,8,Under Construction,East facing,Unfurnished,17000000000.0,7404750.0,860.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+399,399,399,1700.0,7.35,3,Ready to move,North facing,Unfurnished,25000000000.0,12495000.0,1800.0,4.0,4.0,No Parking,3,0.0,0.0
+400,400,400,1050.0,10.19,8,Ready to move,East facing,Semi Furnished,28000000000.0,10699500.0,767.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+401,401,401,1010.0,12.01,4,Under Construction,East facing,Unfurnished,50000000000.0,12130100.0,2200.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+402,402,402,1965.0,13.49,10,Ready to move,North facing,Semi Furnished,34000000000.0,26507850.0,1181.0,3.0,3.0,2 Covered and 1 Open Parking,3,2.0,1.0
+403,403,403,2200.0,10.0,3,Under Construction,East facing,Unfurnished,25000000000.0,22000000.0,980.0,4.0,2.0,2 Covered Parking,3,2.0,0.0
+404,404,404,1216.0,9.87,1,Ready to move,East facing,Unfurnished,34000000000.0,12001919.999999998,768.0,3.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+405,405,405,2300.0,13.04,2,Ready to move,East facing,Semi Furnished,10000000000.0,29992000.0,890.0,3.0,2.0,2 Covered and 2 Open Parking,2,2.0,2.0
+406,406,406,1600.0,11.25,5,Ready to move,East facing,Unfurnished,20000000000.0,18000000.0,1780.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+407,407,407,1540.0,8.12,10,Ready to move,North facing,Semi Furnished,10000000000.0,12504799.999999998,815.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+408,408,408,1200.0,9.5,8,Ready to move,East facing,Unfurnished,14000000000.0,11400000.0,1093.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+409,409,409,1200.0,10.08,5,Ready to move,North facing,Unfurnished,15000000000.0,12096000.0,1355.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+410,410,410,1550.0,10.84,5,Ready to move,East facing,Semi Furnished,13000000000.0,16802000.0,855.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+411,411,411,1050.0,10.48,3,Ready to move,West facing,Unfurnished,20000000000.0,11004000.0,850.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+412,412,412,1000.0,10.0,1,Ready to move,East facing,Unfurnished,12000000000.0,10000000.0,1536.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+413,413,413,5500.0,9.09,3,Ready to move,East facing,Unfurnished,14000000000.0,49995000.0,700.0,4.0,2.0,3 Covered and 2 Open Parking,1,3.0,2.0
+414,414,414,1100.0,9.09,6,Ready to move,East facing,Semi Furnished,18000000000.0,9999000.0,776.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+415,415,415,1500.0,14.0,1,Ready to move,East facing,Fully Furnished,10000000000.0,21000000.0,1050.0,3.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+416,416,416,1098.0,11.84,7,Ready to move,East facing,Unfurnished,13000000000.0,13000320.0,2250.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+418,418,418,1661.0,10.72,10,Ready to move,East facing,Fully Furnished,25000000000.0,17805920.0,1000.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+419,419,419,1285.0,9.18,7,Ready to move,East facing,Unfurnished,16000000000.0,11796300.0,850.0,2.0,3.0,1 Covered Parking,3,1.0,0.0
+420,420,420,1200.0,9.17,7,Ready to move,South facing,Semi Furnished,10000000000.0,11004000.0,1044.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+421,421,421,1050.0,11.9,7,Ready to move,East facing,Semi Furnished,10000000000.0,12495000.0,745.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+422,422,422,1250.0,10.24,2,Ready to move,East facing,Semi Furnished,10000000000.0,12800000.0,2800.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+423,423,423,1800.0,13.89,8,Ready to move,East facing,Fully Furnished,26000000000.0,25002000.0,720.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+424,424,424,1600.0,11.25,2,Ready to move,East facing,Unfurnished,18000000000.0,18000000.0,1040.0,3.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+425,425,425,2100.0,11.9,1,Ready to move,East facing,Unfurnished,14000000000.0,24990000.0,1041.0,,3.0,4,2 Covered and 1 Open Parking,4.0,0.0
+426,426,426,1900.0,14.21,3,Ready to move,West facing,Semi Furnished,21000000000.0,26999000.0,750.0,3.0,2.0,2 Covered and 2 Open Parking,3,2.0,2.0
+427,427,427,1850.0,8.92,1,Ready to move,West facing,Unfurnished,25000000000.0,16502000.0,480.0,2.0,2.0,1 Covered and 1 Open Parking,3,1.0,1.0
+428,428,428,450.0,11.78,1,Under Construction,South-East facing,Semi Furnished,35000000000.0,5301000.0,2145.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+429,429,429,2700.0,9.63,6,Ready to move,East facing,Fully Furnished,18000000000.0,26001000.000000004,703.0,3.0,3.0,2 Covered and 1 Open Parking,3,2.0,1.0
+430,430,430,1225.0,10.2,8,Ready to move,North facing,Semi Furnished,10000000000.0,12495000.0,488.0,2.0,3.0,2 Covered and 1 Open Parking,1,2.0,1.0
+431,431,431,1050.0,9.52,10,Ready to move,West facing,Fully Furnished,0.0,9996000.0,900.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+432,432,432,650.0,8.54,8,Ready to move,South-East facing,Unfurnished,20000000000.0,5550999.999999999,827.0,,2.0,1,1 Covered Parking,1.0,0.0
+433,433,433,1600.0,10.94,5,Ready to move,West facing,Semi Furnished,18000000000.0,17504000.0,870.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+434,434,434,1550.0,10.64,1,Ready to move,East facing,Semi Furnished,10000000000.0,16492000.0,1108.0,3.0,4.0,1 Covered Parking,2,1.0,0.0
+435,435,435,1250.0,10.8,12,Ready to move,East facing,Semi Furnished,12000000000.0,13500000.0,1102.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+436,436,436,950.0,11.05,8,Ready to move,East facing,Semi Furnished,10000000000.0,10497500.0,830.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+437,437,437,1700.0,10.0,5,Ready to move,West facing,Semi Furnished,10000000000.0,17000000.0,750.0,3.0,4.0,1 Covered Parking,2,1.0,0.0
+438,438,438,2000.0,13.5,5,Ready to move,East facing,Fully Furnished,0.0,27000000.0,1200.0,4.0,3.0,2 Covered and 1 Open Parking,1,2.0,1.0
+439,439,439,2100.0,13.33,5,Ready to move,East facing,Fully Furnished,0.0,27993000.0,868.0,4.0,4.0,2 Covered and 1 Open Parking,2,2.0,1.0
+440,440,440,650.0,8.62,1,Under Construction,West facing,Unfurnished,10000000000.0,5602999.999999999,2300.0,,3.0,1,1 Covered Parking,1.0,0.0
+441,441,441,1965.0,13.49,5,Ready to move,North-East facing,Unfurnished,12000000000.0,26507850.0,1007.0,4.0,2.0,1 Covered Parking,2,1.0,0.0
+442,442,442,1550.0,11.1,1,Ready to move,East facing,Unfurnished,10000000000.0,17205000.0,1145.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+443,443,443,1690.0,13.9,1,Ready to move,East facing,Fully Furnished,20000000000.0,23491000.0,850.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+444,444,444,2950.0,11.53,1,Ready to move,East facing,Unfurnished,10000000000.0,34013500.0,850.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+445,445,445,1000.0,10.9,4,Ready to move,East facing,Unfurnished,26000000000.0,10900000.0,857.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+446,446,446,1550.0,13.55,5,Ready to move,East facing,Fully Furnished,15000000000.0,21002500.0,744.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+447,447,447,1300.0,7.69,7,Ready to move,North facing,Semi Furnished,15000000000.0,9997000.0,805.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+448,448,448,1335.0,10.19,1,Ready to move,East facing,Semi Furnished,10000000000.0,13603650.0,808.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+449,449,449,1200.0,12.5,1,Ready to move,North facing,Fully Furnished,10000000000.0,15000000.0,3100.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+450,450,450,1300.0,9.38,1,Ready to move,East facing,Semi Furnished,16000000000.0,12194000.000000002,815.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+451,451,451,1050.0,8.57,2,Ready to move,East facing,Unfurnished,31000000000.0,8998500.0,2200.0,2.0,2.0,No Parking,1,0.0,0.0
+452,452,452,650.0,10.0,5,Ready to move,East facing,Unfurnished,14000000000.0,6500000.0,700.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+453,453,453,1135.0,11.98,1,Ready to move,East facing,Unfurnished,0.0,13597300.0,1300.0,2.0,2.0,No Parking,2,0.0,0.0
+454,454,454,1050.0,9.05,11,Ready to move,East facing,Unfurnished,0.0,9502500.0,2200.0,2.0,4.0,1 Open Parking,1,0.0,1.0
+455,455,455,1050.0,10.95,1,Ready to move,East facing,Unfurnished,0.0,11497500.0,497.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+456,456,456,1250.0,10.0,1,Ready to move,East facing,Unfurnished,0.0,12500000.0,720.0,2.0,1.0,1 Open Parking,1,0.0,1.0
+457,457,457,1250.0,9.68,2,Ready to move,East facing,Fully Furnished,10000000000.0,12100000.0,800.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+458,458,458,1965.0,12.98,8,Ready to move,East facing,Unfurnished,0.0,25505700.0,987.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+459,459,459,850.0,9.41,2,Ready to move,East facing,Semi Furnished,0.0,7998500.0,850.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+460,460,460,550.0,9.09,1,Ready to move,East facing,Semi Furnished,15000000000.0,4999500.0,1700.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+461,461,461,1000.0,11.0,2,Ready to move,South-East facing,Unfurnished,63000000000.0,11000000.0,987.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+462,462,462,1050.0,10.95,1,Ready to move,East facing,Unfurnished,0.0,11497500.0,1393.0,2.0,3.0,1 Open Parking,1,0.0,1.0
+463,463,463,2000.0,13.0,5,Ready to move,East facing,Fully Furnished,0.0,26000000.0,1900.0,3.0,4.0,3 Covered Parking,2,3.0,0.0
+464,464,464,1150.0,8.43,5,Ready to move,East facing,Unfurnished,14000000000.0,9694500.0,1160.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+465,465,465,700.0,10.0,1,Ready to move,East facing,Unfurnished,16000000000.0,7000000.0,4000.0,1.0,1.0,1 Open Parking,1,0.0,1.0
+466,466,466,1690.0,12.23,1,Ready to move,North-East facing,Unfurnished,15000000000.0,20668700.0,1150.0,3.0,2.0,2 Covered Parking,3,2.0,0.0
+467,467,467,2100.0,11.9,5,Ready to move,East facing,Unfurnished,0.0,24990000.0,890.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+468,468,468,1200.0,14.58,3,Ready to move,East facing,Unfurnished,0.0,17496000.0,721.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+469,469,469,795.0,10.31,9,Ready to move,West facing,Unfurnished,0.0,8196450.0,950.0,1.0,3.0,1 Open Parking,1,0.0,1.0
+470,470,470,1040.0,11.06,6,Ready to move,East facing,Semi Furnished,20000000000.0,11502400.0,850.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+471,471,471,2175.0,11.95,1,Ready to move,East facing,Fully Furnished,25000000000.0,25991250.0,1400.0,3.0,2.0,No Parking,2,0.0,0.0
+472,472,472,1600.0,12.19,2,Ready to move,East facing,Semi Furnished,0.0,19504000.0,987.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+473,473,473,1600.0,11.25,5,Ready to move,East facing,Semi Furnished,36000000000.0,18000000.0,6000.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+474,474,474,1250.0,7.12,1,Ready to move,East facing,Semi Furnished,10000000000.0,8900000.0,3500.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+475,475,475,1000.0,12.0,2,Ready to move,West facing,Semi Furnished,0.0,12000000.0,1000.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+476,476,476,1155.0,9.52,1,Ready to move,North facing,Unfurnished,0.0,10995600.0,725.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+477,477,477,1200.0,9.17,2,Ready to move,East facing,Unfurnished,24000000000.0,11004000.0,1019.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+478,478,478,1150.0,8.52,5,Under Construction,East facing,Semi Furnished,0.0,9798000.0,757.0,2.0,1.0,1 Covered and 1 Open Parking,1,1.0,1.0
+479,479,479,580.0,8.77,2,Under Construction,East facing,Semi Furnished,0.0,5086600.0,1000.0,1.0,3.0,1 Covered Parking,1,1.0,0.0
+480,480,480,1625.0,12.31,2,Ready to move,East facing,Fully Furnished,20000000000.0,20003750.0,1000.0,3.0,1.0,2 Covered Parking,3,2.0,0.0
+481,481,481,730.0,8.22,6,Ready to move,East facing,Unfurnished,0.0,6000600.000000001,4000.0,1.0,5.0,1 Covered Parking,1,1.0,0.0
+482,482,482,900.0,6.11,3,Ready to move,North-East facing,Unfurnished,18000000000.0,5499000.0,1507.0,1.0,3.0,1 Covered Parking,1,1.0,0.0
+483,483,483,2965.0,9.78,6,Ready to move,East facing,Semi Furnished,0.0,28997700.0,1045.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+485,485,485,2400.0,10.83,9,Ready to move,East facing,Unfurnished,10000000000.0,25992000.0,2500.0,5.0,2.0,2 Covered Parking,2,2.0,0.0
+486,486,486,1500.0,10.0,6,Ready to move,East facing,Semi Furnished,14000000000.0,15000000.0,4500.0,3.0,1.0,1 Covered Parking,3,1.0,0.0
+487,487,487,1560.0,10.26,9,Ready to move,East facing,Fully Furnished,19000000000.0,16005600.0,1250.0,3.0,2.0,No Parking,2,0.0,0.0
+488,488,488,1050.0,10.95,9,Ready to move,West facing,Unfurnished,18000000000.0,11497500.0,3000.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+489,489,489,875.0,9.71,3,Ready to move,East facing,Semi Furnished,10000000000.0,8496250.0,1069.0,2.0,1.0,No Parking,2,0.0,0.0
+490,490,490,610.0,13.11,1,Ready to move,West facing,Unfurnished,19000000000.0,7997100.0,750.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+491,491,491,3327.0,9.17,1,Ready to move,East facing,Unfurnished,12000000000.0,30508590.0,1350.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+492,492,492,1560.0,8.97,9,Ready to move,East facing,Unfurnished,0.0,13993200.000000002,1069.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+493,493,493,568.0,9.86,9,Ready to move,East facing,Semi Furnished,0.0,5600480.0,850.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+494,494,494,1070.0,10.75,5,Ready to move,East facing,Semi Furnished,32000000000.0,11502500.0,820.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+495,495,495,1190.0,11.34,5,Ready to move,East facing,Semi Furnished,16000000000.0,13494600.0,1160.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+496,496,496,1200.0,14.58,8,Ready to move,East facing,Unfurnished,20000000000.0,17496000.0,1200.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+497,497,497,950.0,7.58,5,Ready to move,East facing,Fully Furnished,0.0,7201000.0,1200.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+499,499,499,1200.0,14.58,5,Ready to move,East facing,Unfurnished,76000000000.0,17496000.0,750.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+500,500,500,2330.0,21.46,2,Ready to move,East facing,Fully Furnished,11000000000.000002,50001800.0,1300.0,,2.0,5,3 Covered and 2 Open Parking,5.0,0.0
+501,501,501,1375.0,10.33,2,Ready to move,East facing,Unfurnished,30000000000.0,14203750.0,680.0,2.0,3.0,1 Covered Parking,3,1.0,0.0
+502,502,502,4800.0,13.13,2,Ready to move,East facing,Unfurnished,0.0,63024000.00000001,1100.0,4.0,2.0,1 Covered Parking,2,1.0,0.0
+503,503,503,765.0,11.76,5,Under Construction,East facing,Semi Furnished,0.0,8996400.0,850.0,2.0,2.0,1 Covered and 1 Open Parking,4,1.0,1.0
+504,504,504,1100.0,8.18,2,Ready to move,East facing,Semi Furnished,800000000000000.0,8998000.0,1200.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+505,505,505,1250.0,10.8,2,Ready to move,East facing,Semi Furnished,60000000000.0,13500000.0,1200.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+506,506,506,1070.0,14.48,6,Ready to move,East facing,Semi Furnished,0.0,15493600.0,1153.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+507,507,507,1200.0,12.5,1,Ready to move,East facing,Semi Furnished,12000000000.0,15000000.0,1200.0,2.0,2.0,2 Covered Parking,2,2.0,0.0
+508,508,508,1660.0,9.64,2,Ready to move,East facing,Semi Furnished,10000000000.0,16002400.000000002,300.0,3.0,3.0,2 Covered and 1 Open Parking,2,2.0,1.0
+509,509,509,1000.0,9.0,1,Under Construction,East facing,Unfurnished,0.0,9000000.0,980.0,2.0,3.0,2 Covered and 1 Open Parking,1,2.0,1.0
+510,510,510,1077.0,8.9,5,Under Construction,East facing,Unfurnished,16000000000.0,9585300.0,1344.0,2.0,5.0,1 Covered Parking,1,1.0,0.0
+511,511,511,1095.0,12.79,5,Ready to move,East facing,Semi Furnished,12000000000.0,14005049.999999998,1600.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+512,512,512,1855.0,13.21,7,Ready to move,North facing,Semi Furnished,18000000000.0,24504550.0,740.0,3.0,2.0,2 Covered Parking,1,2.0,0.0
+513,513,513,2100.0,11.43,10,Ready to move,West facing,Unfurnished,0.0,24003000.0,1100.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+514,514,514,4600.0,7.83,5,Ready to move,West facing,Semi Furnished,0.0,36018000.0,745.0,4.0,5.0,2 Covered Parking,3,2.0,0.0
+515,515,515,1010.0,7.42,1,Ready to move,East facing,Semi Furnished,720000000000000.0,7494200.0,750.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+516,516,516,1050.0,9.52,15,Under Construction,East facing,Unfurnished,0.0,9996000.0,750.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+517,517,517,1130.0,8.76,5,Ready to move,West facing,Semi Furnished,20000000000.0,9898800.0,3800.0,2.0,3.0,1 Covered Parking,3,1.0,0.0
+518,518,518,2100.0,11.19,5,Ready to move,North facing,Semi Furnished,14000000000.0,23499000.0,2300.0,4.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+519,519,519,1150.0,6.96,9,Under Construction,East facing,Semi Furnished,15000000000.0,8004000.0,1108.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+520,520,520,2700.0,11.24,5,Under Construction,East facing,Unfurnished,0.0,30348000.0,950.0,4.0,2.0,3 Covered and 1 Open Parking,2,3.0,1.0
+521,521,521,1320.0,7.58,10,Ready to move,East facing,Semi Furnished,0.0,10005600.0,894.0,3.0,3.0,1 Covered Parking,1,1.0,0.0
+522,522,522,1390.0,10.07,10,Ready to move,East facing,Semi Furnished,15000000000.0,13997300.0,2200.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+523,523,523,1050.0,8.57,3,Ready to move,East facing,Semi Furnished,18000000000.0,8998500.0,2100.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+524,524,524,1275.0,6.67,5,Ready to move,East facing,Semi Furnished,16000000000.0,8504250.0,3500.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+525,525,525,2450.0,8.57,2,Ready to move,East facing,Unfurnished,930000000000000.0,20996500.0,940.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+526,526,526,1151.0,9.12,7,Ready to move,East facing,Unfurnished,0.0,10497120.0,870.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+527,527,527,1250.0,11.6,1,Ready to move,East facing,Semi Furnished,0.0,14500000.0,950.0,2.0,3.0,2 Covered and 1 Open Parking,1,2.0,1.0
+528,528,528,1555.0,12.54,7,Ready to move,East facing,Semi Furnished,40000000000.0,19499700.0,2300.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+529,529,529,950.0,9.47,10,Ready to move,East facing,Semi Furnished,0.0,8996500.0,1150.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+530,530,530,1200.0,8.33,7,Ready to move,East facing,Unfurnished,19000000000.0,9996000.0,1320.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+531,531,531,2100.0,9.05,9,Ready to move,East facing,Semi Furnished,0.0,19005000.0,730.0,3.0,4.0,2 Covered Parking,2,2.0,0.0
+532,532,532,950.0,6.53,18,Ready to move,East facing,Unfurnished,35000000000.0,6203500.0,950.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+533,533,533,976.0,9.73,7,Under Construction,East facing,Unfurnished,0.0,9496480.0,2100.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+534,534,534,1417.0,9.99,10,Under Construction,East facing,Unfurnished,25000000000.0,14155830.0,1000.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+535,535,535,3500.0,9.29,5,Ready to move,East facing,Fully Furnished,0.0,32515000.0,1819.0,5.0,3.0,1 Covered and 1 Open Parking,4,1.0,1.0
+536,536,536,1100.0,10.45,10,Under Construction,East facing,Unfurnished,12000000000.0,11495000.0,1115.0,,2.0,2,1 Covered Parking,2.0,0.0
+537,537,537,1250.0,12.4,5,Ready to move,East facing,Semi Furnished,23000000000.0,15500000.0,1000.0,2.0,4.0,2 Covered and 1 Open Parking,1,2.0,1.0
+538,538,538,900.0,10.22,3,Ready to move,East facing,Semi Furnished,40000000000.0,9198000.0,1000.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+539,539,539,1350.0,9.78,10,Under Construction,East facing,Semi Furnished,10000000000.0,13203000.0,700.0,3.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+540,540,540,1080.0,8.05,5,Under Construction,East facing,Semi Furnished,32000000000.0,8694000.0,944.0,2.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+541,541,541,3000.0,11.83,10,Ready to move,East facing,Unfurnished,10000000000.0,35490000.0,2000.0,4.0,2.0,3 Covered and 2 Open Parking,3,3.0,2.0
+542,542,542,980.0,11.22,1,Ready to move,East facing,Semi Furnished,18000000000.0,10995600.0,725.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+543,543,543,1420.0,12.32,8,Ready to move,East facing,Unfurnished,0.0,17494400.0,2150.0,3.0,4.0,1 Covered Parking,1,1.0,0.0
+544,544,544,1460.0,9.59,8,Under Construction,East facing,Semi Furnished,0.0,14001400.0,2150.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+545,545,545,1050.0,8.1,12,Under Construction,East facing,Unfurnished,16000000000.0,8505000.0,2200.0,2.0,1.0,1 Covered and 1 Open Parking,1,1.0,1.0
+546,546,546,650.0,6.92,5,Ready to move,East facing,Semi Furnished,10000000000.0,4498000.0,2150.0,1.0,1.0,1 Open Parking,1,0.0,1.0
+547,547,547,2845.0,13.39,1,Ready to move,East facing,Semi Furnished,25000000000.0,38094550.0,1800.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+548,548,548,900.0,8.22,8,Under Construction,East facing,Unfurnished,17000000000.0,7398000.000000001,2200.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+549,549,549,700.0,8.57,2,Ready to move,East facing,Semi Furnished,24000000000.0,5999000.0,2240.0,1.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+550,550,550,686.0,7.14,5,Ready to move,East facing,Semi Furnished,25000000000.0,4898040.0,980.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+551,551,551,696.0,10.34,7,Under Construction,East facing,Unfurnished,16000000000.0,7196640.0,1170.0,2.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+552,552,552,1200.0,13.17,5,Ready to move,East facing,Unfurnished,39000000000.0,15804000.0,1800.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+553,553,553,1050.0,11.43,7,Ready to move,East facing,Unfurnished,14000000000.0,12001500.0,3600.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+554,554,554,1200.0,7.5,10,Ready to move,North facing,Semi Furnished,11000000000.000002,9000000.0,740.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+555,555,555,1350.0,11.48,6,Under Construction,East facing,Unfurnished,10000000000.0,15498000.0,1900.0,3.0,2.0,1 Covered and 2 Open Parking,3,1.0,2.0
+557,557,557,1068.0,6.74,8,Ready to move,East facing,Semi Furnished,16000000000.0,7198320.0,676.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+558,558,558,1650.0,9.09,3,Ready to move,East facing,Unfurnished,24000000000.0,14998500.0,800.0,3.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+559,559,559,1100.0,8.45,5,Ready to move,East facing,Semi Furnished,15000000000.0,9295000.0,757.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+560,560,560,1500.0,9.33,1,Ready to move,North-East facing,Unfurnished,55000000000.0,13995000.0,1200.0,3.0,2.0,2 Covered and 1 Open Parking,1,2.0,1.0
+561,561,561,1180.0,8.39,2,Ready to move,North-East facing,Fully Furnished,35000000000.0,9900200.0,1050.0,2.0,2.0,1 Open Parking,2,0.0,1.0
+562,562,562,2500.0,11.4,3,Under Construction,East facing,Semi Furnished,0.0,28500000.0,730.0,5.0,3.0,2 Covered and 2 Open Parking,4,2.0,2.0
+563,563,563,1350.0,7.85,8,Under Construction,North-East facing,Unfurnished,0.0,10597500.0,750.0,3.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+564,564,564,1450.0,11.38,6,Ready to move,North-East facing,Semi Furnished,0.0,16501000.000000002,950.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+566,566,566,1755.0,9.4,7,Ready to move,North-East facing,Unfurnished,16000000000.0,16497000.0,1000.0,3.0,5.0,2 Covered Parking,1,2.0,0.0
+568,568,568,942.0,11.04,6,Under Construction,North-East facing,Unfurnished,45000000000.0,10399680.0,740.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+569,569,569,1050.0,8.83,1,Ready to move,North-East facing,Semi Furnished,29000000000.0,9271500.0,1030.0,2.0,5.0,1 Covered Parking,2,1.0,0.0
+570,570,570,3500.0,11.57,6,Ready to move,North-East facing,Semi Furnished,20000000000.0,40495000.0,1018.0,4.0,4.0,2 Covered Parking,2,2.0,0.0
+572,572,572,1100.0,8.64,1,Ready to move,North-East facing,Unfurnished,34000000000.0,9504000.0,940.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+573,573,573,4200.0,10.05,3,Ready to move,North-East facing,Semi Furnished,60000000000.0,42210000.0,1200.0,4.0,3.0,2 Covered and 2 Open Parking,3,2.0,2.0
+574,574,574,2850.0,11.4,7,Ready to move,North-East facing,Semi Furnished,14000000000.0,32490000.0,950.0,3.0,2.0,2 Covered Parking,1,2.0,0.0
+575,575,575,1000.0,10.06,7,Under Construction,North-East facing,Unfurnished,90000000000.0,10060000.0,2500.0,2.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+576,576,576,2700.0,9.26,2,Ready to move,North-East facing,Semi Furnished,16000000000.0,25002000.0,665.0,4.0,4.0,2 Covered Parking,2,2.0,0.0
+577,577,577,1200.0,7.5,2,Under Construction,North-East facing,Unfurnished,15000000000.0,9000000.0,1480.0,3.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+578,578,578,1000.0,6.2,4,Ready to move,East facing,Unfurnished,17000000000.0,6200000.0,3400.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+579,579,579,1520.0,14.8,10,Ready to move,East facing,Semi Furnished,16000000000.0,22496000.0,1230.0,3.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+580,580,580,2800.0,12.14,1,Ready to move,East facing,Semi Furnished,18000000000.0,33992000.0,695.0,4.0,2.0,1 Covered and 1 Open Parking,3,1.0,1.0
+581,581,581,698.0,9.88,5,Ready to move,East facing,Semi Furnished,0.0,6896240.000000001,779.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+582,582,582,2650.0,10.25,1,Ready to move,East facing,Unfurnished,14000000000.0,27162500.0,460.0,4.0,2.0,3 Covered Parking,2,3.0,0.0
+583,583,583,980.0,11.12,14,Ready to move,North-East facing,Unfurnished,18000000000.0,10897600.0,732.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+584,584,584,1084.0,8.21,8,Ready to move,East facing,Fully Furnished,18000000000.0,8899640.0,828.0,2.0,2.0,1 Open Parking,2,0.0,1.0
+585,585,585,1180.0,8.05,10,Ready to move,East facing,Unfurnished,0.0,9499000.0,2100.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+586,586,586,1140.0,7.63,15,Ready to move,North-East facing,Unfurnished,16000000000.0,8698200.0,713.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+587,587,587,1315.0,12.17,12,Ready to move,North-East facing,Semi Furnished,13000000000.0,16003550.0,664.0,2.0,3.0,2 Covered Parking,1,2.0,0.0
+588,588,588,1150.0,9.56,8,Ready to move,North-East facing,Semi Furnished,17000000000.0,10994000.0,682.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+589,589,589,2350.0,10.43,7,Ready to move,North-East facing,Unfurnished,17000000000.0,24510500.0,750.0,3.0,3.0,2 Covered Parking,1,2.0,0.0
+590,590,590,1315.0,12.93,9,Ready to move,North-East facing,Semi Furnished,18000000000.0,17002950.0,760.0,2.0,5.0,2 Covered Parking,1,2.0,0.0
+591,591,591,1855.0,12.94,11,Ready to move,North-East facing,Unfurnished,16000000000.0,24003700.0,1103.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+592,592,592,2350.0,10.43,10,Ready to move,West facing,Semi Furnished,17000000000.0,24510500.0,850.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+593,593,593,1450.0,11.38,13,Ready to move,East facing,Unfurnished,17000000000.0,16501000.000000002,820.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+594,594,594,5000.0,7.8,10,Ready to move,East facing,Semi Furnished,840000000000000.0,39000000.0,3200.0,4.0,2.0,3 Covered Parking,1,3.0,0.0
+595,595,595,1450.0,9.31,5,Ready to move,North-East facing,Semi Furnished,14000000000.0,13499500.0,750.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+596,596,596,1150.0,9.56,10,Ready to move,North-East facing,Unfurnished,16000000000.0,10994000.0,920.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+597,597,597,1000.0,10.0,11,Ready to move,East facing,Semi Furnished,18000000000.0,10000000.0,380.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+598,598,598,1250.0,12.4,16,Ready to move,West facing,Unfurnished,10000000000.0,15500000.0,675.0,2.0,4.0,2 Covered Parking,1,2.0,0.0
+599,599,599,1105.0,14.93,15,Ready to move,East facing,Semi Furnished,18000000000.0,16497650.0,800.0,2.0,4.0,2 Covered Parking,2,2.0,0.0
+600,600,600,1855.0,12.94,15,Ready to move,East facing,Unfurnished,0.0,24003700.0,655.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+601,601,601,1315.0,11.41,12,Ready to move,East facing,Unfurnished,920000000000000.0,15004150.0,2500.0,2.0,2.0,2 Covered Parking,2,2.0,0.0
+602,602,602,7200.0,7.64,5,Ready to move,East facing,Unfurnished,11000000000.000002,55008000.0,1850.0,4.0,3.0,2 Covered Parking,2,2.0,0.0
+603,603,603,4355.0,8.72,10,Ready to move,East facing,Unfurnished,38000000000.0,37975600.0,818.0,4.0,2.0,2 Covered Parking,3,2.0,0.0
+604,604,604,1350.0,9.63,6,Under Construction,East facing,Semi Furnished,25000000000.0,13000500.000000002,857.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+605,605,605,1088.0,8.82,5,Under Construction,East facing,Fully Furnished,0.0,9596160.0,900.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+606,606,606,1375.0,8.0,4,Under Construction,East facing,Semi Furnished,15000000000.0,11000000.0,540.0,3.0,4.0,1 Covered Parking,3,1.0,0.0
+607,607,607,1021.0,9.4,8,Under Construction,North-East facing,Unfurnished,12000000000.0,9597400.0,700.0,2.0,5.0,1 Covered Parking,2,1.0,0.0
+608,608,608,1490.0,10.54,6,Ready to move,North facing,Unfurnished,29000000000.0,15704599.999999998,770.0,2.0,3.0,2 Covered Parking,1,2.0,0.0
+609,609,609,1500.0,7.87,7,Ready to move,North-East facing,Unfurnished,34000000000.0,11805000.0,722.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+610,610,610,5400.0,8.43,5,Ready to move,East facing,Fully Furnished,45000000000.0,45522000.0,950.0,4.0,2.0,2 Covered Parking,4,2.0,0.0
+611,611,611,4650.0,8.39,12,Ready to move,East facing,Semi Furnished,13000000000.0,39013500.0,380.0,4.0,3.0,2 Covered and 1 Open Parking,3,2.0,1.0
+612,612,612,2015.0,12.41,6,Ready to move,East facing,Unfurnished,13000000000.0,25006150.0,710.0,3.0,5.0,2 Covered Parking,1,2.0,0.0
+615,615,615,3000.0,11.33,10,Ready to move,East facing,Semi Furnished,17000000000.0,33990000.0,690.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+616,616,616,6500.0,10.0,5,Ready to move,East facing,Unfurnished,22000000000.000004,65000000.0,1500.0,5.0,2.0,4 Covered and 2 Open Parking,4,4.0,2.0
+617,617,617,1500.0,9.33,1,Ready to move,East facing,Semi Furnished,11000000000.000002,13995000.0,807.0,3.0,3.0,2 Covered and 1 Open Parking,3,2.0,1.0
+618,618,618,4000.0,11.25,5,Ready to move,East facing,Unfurnished,16000000000.0,45000000.0,725.0,4.0,3.0,2 Covered and 1 Open Parking,2,2.0,1.0
+619,619,619,1450.0,10.69,5,Ready to move,East facing,Semi Furnished,36000000000.0,15500500.0,700.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+620,620,620,1050.0,7.14,10,Ready to move,East facing,Semi Furnished,16000000000.0,7497000.0,3000.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+621,621,621,1850.0,9.19,7,Ready to move,North-East facing,Unfurnished,0.0,17001500.0,950.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+622,622,622,1450.0,11.03,10,Ready to move,East facing,Semi Furnished,0.0,15993500.0,450.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+623,623,623,1185.0,7.59,8,Ready to move,East facing,Fully Furnished,0.0,8994150.0,1100.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+624,624,624,1100.0,9.54,16,Under Construction,East facing,Unfurnished,13000000000.0,10493999.999999998,595.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+625,625,625,1600.0,8.75,7,Ready to move,East facing,Semi Furnished,14000000000.0,14000000.0,1235.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+626,626,626,1600.0,10.94,9,Ready to move,East facing,Semi Furnished,15000000000.0,17504000.0,745.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+627,627,627,1600.0,10.94,5,Ready to move,North-West facing,Semi Furnished,0.0,17504000.0,2600.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+628,628,628,600.0,7.67,5,Ready to move,East facing,Unfurnished,0.0,4602000.0,751.0,,3.0,1,1 Covered Parking,1.0,0.0
+629,629,629,1100.0,6.82,10,Under Construction,East facing,Unfurnished,35000000000.0,7502000.0,775.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+630,630,630,1800.0,8.89,15,Ready to move,East facing,Semi Furnished,35000000000.0,16002000.000000002,2800.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+631,631,631,900.0,7.22,4,Ready to move,East facing,Unfurnished,25000000000.0,6498000.0,818.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+632,632,632,1600.0,10.63,2,Ready to move,South-East facing,Semi Furnished,36000000000.0,17008000.0,1500.0,3.0,3.0,2 Covered Parking,2,2.0,0.0
+633,633,633,1180.0,7.97,13,Ready to move,East facing,Unfurnished,25000000000.0,9404600.0,1101.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+634,634,634,1600.0,10.94,10,Ready to move,North-East facing,Unfurnished,26000000000.0,17504000.0,665.0,3.0,1.0,1 Covered Parking,2,1.0,0.0
+635,635,635,1600.0,9.69,7,Ready to move,East facing,Semi Furnished,32000000000.0,15504000.0,453.0,3.0,3.0,No Parking,2,0.0,0.0
+636,636,636,1600.0,10.63,7,Ready to move,East facing,Unfurnished,16000000000.0,17008000.0,665.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+638,638,638,450.0,8.44,6,Ready to move,East facing,Unfurnished,25000000000.0,3798000.0,2800.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+639,639,639,1400.0,10.0,8,Ready to move,North facing,Unfurnished,33000000000.0,14000000.0,460.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+640,640,640,1650.0,9.7,15,Ready to move,East facing,Semi Furnished,10000000000.0,16004999.999999998,486.0,3.0,2.0,1 Covered and 1 Open Parking,3,1.0,1.0
+641,641,641,2000.0,9.0,8,Ready to move,South-East facing,Unfurnished,23000000000.0,18000000.0,450.0,4.0,2.0,1 Covered Parking,3,1.0,0.0
+642,642,642,1000.0,9.5,1,Ready to move,North-East facing,Unfurnished,0.0,9500000.0,1500.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+643,643,643,1550.0,11.29,4,Ready to move,East facing,Unfurnished,12000000000.0,17499500.0,590.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+644,644,644,1043.0,8.83,1,Ready to move,South facing,Semi Furnished,0.0,9209690.0,1050.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+645,645,645,1050.0,8.76,5,Ready to move,East facing,Unfurnished,16000000000.0,9198000.0,750.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+646,646,646,1050.0,10.48,10,Ready to move,East facing,Unfurnished,16000000000.0,11004000.0,696.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+647,647,647,4100.0,10.24,8,Ready to move,East facing,Semi Furnished,0.0,41984000.0,1330.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+648,648,648,2835.0,8.82,1,Ready to move,East facing,Fully Furnished,10000000000.0,25004700.0,620.0,4.0,4.0,2 Covered Parking,2,2.0,0.0
+649,649,649,1420.0,10.96,1,Under Construction,East facing,Unfurnished,16000000000.0,15563200.000000002,780.0,3.0,3.0,2 Covered and 1 Open Parking,2,2.0,1.0
+650,650,650,1320.0,11.36,2,Ready to move,East facing,Semi Furnished,16000000000.0,14995200.0,805.0,2.0,4.0,2 Covered Parking,2,2.0,0.0
+651,651,651,1250.0,9.6,6,Ready to move,East facing,Semi Furnished,10000000000.0,12000000.0,749.0,2.0,2.0,2 Covered Parking,2,2.0,0.0
+652,652,652,2900.0,9.83,7,Ready to move,East facing,Fully Furnished,25000000000.0,28507000.0,655.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+653,653,653,2850.0,11.75,6,Ready to move,West facing,Semi Furnished,14000000000.0,33487500.0,1050.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+654,654,654,4000.0,11.25,2,Ready to move,East facing,Semi Furnished,27000000000.0,45000000.0,838.0,4.0,4.0,2 Covered Parking,3,2.0,0.0
+655,655,655,1340.0,9.33,1,Ready to move,East facing,Semi Furnished,11000000000.000002,12502200.0,475.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+656,656,656,1250.0,10.4,4,Ready to move,East facing,Semi Furnished,14000000000.0,13000000.0,806.0,2.0,2.0,2 Covered and 1 Open Parking,2,2.0,1.0
+657,657,657,1300.0,11.92,1,Ready to move,East facing,Semi Furnished,43000000000.0,15496000.0,614.0,2.0,2.0,2 Covered Parking,2,2.0,0.0
+658,658,658,2835.0,9.52,7,Ready to move,East facing,Fully Furnished,0.0,26989200.0,838.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+659,659,659,1400.0,12.14,1,Ready to move,East facing,Semi Furnished,0.0,16996000.0,620.0,3.0,5.0,2 Covered Parking,2,2.0,0.0
+660,660,660,1650.0,13.33,3,Ready to move,East facing,Semi Furnished,55000000000.0,21994500.0,475.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+661,661,661,980.0,10.71,5,Ready to move,West facing,Semi Furnished,0.0,10495800.0,787.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+662,662,662,1250.0,12.4,1,Ready to move,West facing,Semi Furnished,0.0,15500000.0,787.0,2.0,3.0,2 Covered Parking,2,2.0,0.0
+663,663,663,2950.0,12.2,10,Ready to move,East facing,Fully Furnished,0.0,35990000.0,740.0,4.0,3.0,2 Covered Parking,2,2.0,0.0
+664,664,664,1350.0,11.7,7,Ready to move,North facing,Semi Furnished,10000000000.0,15794999.999999998,650.0,2.0,3.0,2 Covered Parking,2,2.0,0.0
+665,665,665,2300.0,13.85,6,Under Construction,East facing,Unfurnished,0.0,31855000.0,728.0,4.0,2.0,2 Covered and 1 Open Parking,2,2.0,1.0
+666,666,666,1550.0,8.85,1,Under Construction,West facing,Unfurnished,0.0,13717500.0,880.0,3.0,2.0,2 Covered and 1 Open Parking,2,2.0,1.0
+667,667,667,1300.0,8.79,8,Under Construction,East facing,Unfurnished,22000000000.000004,11426999.999999998,840.0,3.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+668,668,668,1400.0,9.29,5,Ready to move,East facing,Unfurnished,0.0,13005999.999999998,680.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+669,669,669,1000.0,14.0,1,Ready to move,North-East facing,Fully Furnished,0.0,14000000.0,1356.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+670,670,670,1240.0,12.1,4,Ready to move,East facing,Semi Furnished,0.0,15004000.0,740.0,2.0,4.0,2 Covered Parking,2,2.0,0.0
+671,671,671,2500.0,9.8,4,Under Construction,East facing,Unfurnished,13000000000.0,24500000.0,900.0,4.0,4.0,1 Covered Parking,3,1.0,0.0
+672,672,672,1000.0,8.9,10,Under Construction,West facing,Unfurnished,0.0,8900000.0,405.0,2.0,4.0,1 Covered Parking,2,1.0,0.0
+673,673,673,3000.0,11.67,5,Ready to move,West facing,Semi Furnished,15000000000.0,35010000.0,750.0,4.0,3.0,2 Covered Parking,3,2.0,0.0
+675,675,675,2850.0,8.77,8,Ready to move,East facing,Semi Furnished,0.0,24994500.0,405.0,4.0,5.0,2 Covered and 1 Open Parking,3,2.0,1.0
+676,676,676,3000.0,12.0,2,Ready to move,East facing,Semi Furnished,50000000000.0,36000000.0,1420.0,4.0,2.0,2 Covered Parking,3,2.0,0.0
+677,677,677,2650.0,9.24,1,Ready to move,East facing,Semi Furnished,13000000000.0,24486000.0,1356.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+678,678,678,2850.0,9.12,3,Ready to move,East facing,Semi Furnished,12000000000.0,25992000.0,900.0,4.0,3.0,2 Covered and 1 Open Parking,3,2.0,1.0
+679,679,679,2600.0,12.31,8,Ready to move,East facing,Fully Furnished,500000000000000.0,32006000.0,1123.0,4.0,4.0,2 Covered Parking,2,2.0,0.0
+680,680,680,1300.0,11.92,1,Ready to move,East facing,Semi Furnished,860000000000000.0,15496000.0,720.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+681,681,681,1300.0,13.08,1,Ready to move,East facing,Semi Furnished,10000000000.0,17004000.0,714.0,3.0,4.0,1 Covered and 1 Open Parking,2,1.0,1.0
+682,682,682,2650.0,9.43,15,Ready to move,East facing,Semi Furnished,0.0,24989500.0,798.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+683,683,683,4355.0,7.58,6,Ready to move,East facing,Semi Furnished,33000000000.0,33010900.0,1265.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+684,684,684,1050.0,9.52,12,Ready to move,East facing,Semi Furnished,33000000000.0,9996000.0,490.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+685,685,685,2345.0,9.81,6,Ready to move,East facing,Semi Furnished,0.0,23004450.0,547.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+686,686,686,1030.0,8.93,4,Under Construction,East facing,Unfurnished,0.0,9197900.0,850.0,,3.0,2,1 Covered and 1 Open Parking,2.0,0.0
+687,687,687,866.0,9.81,4,Under Construction,East facing,Semi Furnished,16000000000.0,8495460.0,880.0,2.0,3.0,2 Covered and 1 Open Parking,1,2.0,1.0
+688,688,688,1018.0,6.48,6,Ready to move,North facing,Semi Furnished,10000000000.0,6596640.0,750.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+689,689,689,957.0,8.99,8,Under Construction,East facing,Unfurnished,0.0,8603430.0,740.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+690,690,690,1600.0,10.13,8,Ready to move,East facing,Unfurnished,14000000000.0,16208000.000000002,850.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+691,691,691,1500.0,11.0,2,Ready to move,East facing,Semi Furnished,10000000000.0,16500000.0,720.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+692,692,692,1000.0,10.0,5,Ready to move,North facing,Unfurnished,16000000000.0,10000000.0,460.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+693,693,693,1050.0,9.14,18,Ready to move,East facing,Semi Furnished,800000000000000.0,9597000.0,950.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+694,694,694,1250.0,12.4,5,Ready to move,East facing,Semi Furnished,0.0,15500000.0,800.0,2.0,2.0,2 Covered Parking,2,2.0,0.0
+696,696,696,1450.0,11.03,2,Ready to move,North facing,Semi Furnished,20000000000.0,15993500.0,550.0,2.0,3.0,2 Covered Parking,2,2.0,0.0
+697,697,697,1200.0,8.67,4,Under Construction,East facing,Unfurnished,0.0,10404000.0,769.0,,3.0,2,1 Covered and 1 Open Parking,2.0,0.0
+698,698,698,1050.0,10.0,15,Ready to move,East facing,Semi Furnished,18000000000.0,10500000.0,455.0,2.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+699,699,699,1390.0,9.71,8,Ready to move,East facing,Semi Furnished,12000000000.0,13496900.000000002,848.0,3.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+700,700,700,1350.0,10.74,12,Ready to move,East facing,Semi Furnished,35000000000.0,14499000.0,1000.0,3.0,3.0,2 Covered and 1 Open Parking,1,2.0,1.0
+701,701,701,1350.0,11.48,6,Under Construction,East facing,Unfurnished,12000000000.0,15498000.0,756.0,,5.0,3,1 Covered and 1 Open Parking,3.0,0.0
+702,702,702,1265.0,11.37,5,Ready to move,East facing,Semi Furnished,45000000000.0,14383049.999999998,476.0,3.0,2.0,2 Covered and 2 Open Parking,2,2.0,2.0
+703,703,703,1600.0,6.56,12,Ready to move,East facing,Fully Furnished,600000000000000.0,10496000.0,751.0,3.0,4.0,1 Covered and 1 Open Parking,3,1.0,1.0
+704,704,704,1200.0,11.25,5,Ready to move,East facing,Semi Furnished,18000000000.0,13500000.0,510.0,3.0,4.0,1 Covered Parking,2,1.0,0.0
+705,705,705,3500.0,12.29,1,Ready to move,East facing,Semi Furnished,700000000000000.0,43015000.0,750.0,4.0,3.0,3 Covered Parking,2,3.0,0.0
+706,706,706,899.0,5.62,5,Under Construction,East facing,Unfurnished,20000000000.0,5052380.0,2900.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+707,707,707,1998.0,6.09,6,Under Construction,East facing,Unfurnished,16000000000.0,12167820.0,682.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+708,708,708,4070.0,13.51,1,Ready to move,East facing,Semi Furnished,28000000000.0,54985700.0,415.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+709,709,709,1650.0,10.91,5,Under Construction,East facing,Unfurnished,0.0,18001500.0,900.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+710,710,710,938.0,5.53,5,Under Construction,East facing,Semi Furnished,17000000000.0,5187140.0,700.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+711,711,711,879.0,8.07,1,Under Construction,East facing,Unfurnished,35000000000.0,7093530.0,856.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+712,712,712,650.0,7.38,3,Ready to move,East facing,Unfurnished,0.0,4797000.0,2410.0,1.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+713,713,713,1000.0,5.0,6,Under Construction,East facing,Semi Furnished,21000000000.0,5000000.0,850.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+714,714,714,1117.0,8.06,2,Under Construction,East facing,Semi Furnished,0.0,9003020.0,556.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+715,715,715,2600.0,8.27,7,Ready to move,East facing,Semi Furnished,0.0,21502000.0,850.0,3.0,2.0,2 Covered Parking,1,2.0,0.0
+716,716,716,962.0,6.76,1,Ready to move,East facing,Unfurnished,12000000000.0,6503120.0,650.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+717,717,717,870.0,8.38,6,Under Construction,West facing,Semi Furnished,0.0,7290600.000000001,682.0,2.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+718,718,718,750.0,7.47,9,Under Construction,East facing,Unfurnished,0.0,5602500.0,750.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+719,719,719,1000.0,12.6,5,Ready to move,East facing,Semi Furnished,0.0,12600000.0,640.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+720,720,720,1050.0,5.05,5,Under Construction,East facing,Unfurnished,43000000000.0,5302500.0,479.0,2.0,6.0,1 Covered Parking,2,1.0,0.0
+721,721,721,1350.0,5.55,7,Ready to move,West facing,Unfurnished,0.0,7492500.0,743.0,3.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+722,722,722,1100.0,7.27,5,Ready to move,North-West facing,Semi Furnished,580000000000000.0,7996999.999999999,838.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+723,723,723,1282.0,5.85,6,Ready to move,East facing,Unfurnished,500000000000000.0,7499700.0,650.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+724,724,724,3400.0,12.09,2,Ready to move,East facing,Fully Furnished,16000000000.0,41106000.0,460.0,6.0,2.0,2 Covered and 2 Open Parking,3,2.0,2.0
+725,725,725,850.0,8.82,2,Ready to move,East facing,Unfurnished,920000000000000.0,7497000.0,760.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+726,726,726,1120.0,11.16,2,Ready to move,East facing,Unfurnished,0.0,12499200.0,721.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+727,727,727,465.0,8.17,2,Ready to move,East facing,Fully Furnished,0.0,3799050.0,700.0,1.0,4.0,1 Covered and 1 Open Parking,1,1.0,1.0
+728,728,728,927.0,4.64,2,Ready to move,East facing,Unfurnished,0.0,4301280.0,1015.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+729,729,729,1050.0,9.05,3,Ready to move,East facing,Semi Furnished,0.0,9502500.0,700.0,3.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+730,730,730,924.0,5.09,2,Under Construction,East facing,Unfurnished,12000000000.0,4703160.0,1107.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+731,731,731,3450.0,9.42,2,Ready to move,West facing,Unfurnished,20000000000.0,32499000.0,728.0,4.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+732,732,732,2400.0,13.54,3,Ready to move,East facing,Unfurnished,0.0,32496000.0,1180.0,4.0,1.0,2 Covered and 1 Open Parking,4,2.0,1.0
+733,733,733,1104.0,7.87,2,Ready to move,East facing,Unfurnished,0.0,8688480.0,510.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+734,734,734,966.0,12.11,2,Under Construction,East facing,Unfurnished,0.0,11698260.0,1271.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+735,735,735,1100.0,7.27,1,Ready to move,East facing,Fully Furnished,0.0,7996999.999999999,840.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+736,736,736,780.0,7.18,1,Ready to move,East facing,Unfurnished,0.0,5600400.0,739.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+737,737,737,980.0,4.79,3,Ready to move,West facing,Unfurnished,0.0,4694200.0,930.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+738,738,738,1100.0,5.91,3,Ready to move,West facing,Unfurnished,0.0,6501000.0,3000.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+739,739,739,960.0,10.42,5,Ready to move,West facing,Unfurnished,0.0,10003200.0,1213.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+740,740,740,1150.0,7.57,6,Ready to move,East facing,Semi Furnished,12000000000.0,8705500.0,1050.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+741,741,741,465.0,8.6,10,Ready to move,East facing,Fully Furnished,0.0,3999000.0,825.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+742,742,742,1090.0,4.04,2,Ready to move,East facing,Unfurnished,0.0,4403600.0,800.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+743,743,743,897.0,7.47,6,Under Construction,East facing,Unfurnished,0.0,6700590.0,1200.0,,2.0,2,1 Covered and 1 Open Parking,2.0,0.0
+744,744,744,1550.0,4.84,5,Ready to move,West facing,Semi Furnished,0.0,7502000.0,978.0,,2.0,2,1 Covered Parking,2.0,0.0
+745,745,745,931.0,4.51,2,Ready to move,East facing,Unfurnished,0.0,4198810.0,812.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+747,747,747,1089.0,8.95,10,Under Construction,North facing,Unfurnished,0.0,9746550.0,875.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+750,750,750,3400.0,5.29,2,Ready to move,East facing,Unfurnished,10000000000.0,17986000.0,526.0,4.0,2.0,3 Covered and 1 Open Parking,No Balcony,3.0,1.0
+751,751,751,1150.0,5.04,4,Ready to move,East facing,Unfurnished,15000000000.0,5796000.0,852.0,3.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+752,752,752,3310.0,13.6,8,Ready to move,West facing,Semi Furnished,13000000000.0,45016000.0,489.0,5.0,3.0,2 Covered Parking,2,2.0,0.0
+753,753,753,580.0,5.17,3,Ready to move,East facing,Unfurnished,10000000000.0,2998600.0,1026.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+754,754,754,1400.0,12.86,1,Ready to move,East facing,Semi Furnished,0.0,18004000.0,650.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+755,755,755,650.0,5.38,1,Ready to move,East facing,Unfurnished,12000000000.0,3497000.0,1300.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+756,756,756,1667.0,12.3,1,Ready to move,East facing,Unfurnished,17000000000.0,20504100.0,820.0,3.0,2.0,2 Covered Parking,3,2.0,0.0
+758,758,758,2900.0,9.48,12,Ready to move,East facing,Semi Furnished,0.0,27492000.0,1215.0,4.0,2.0,3 Covered and 2 Open Parking,2,3.0,2.0
+759,759,759,1050.0,6.24,4,Ready to move,East facing,Unfurnished,0.0,6552000.0,1490.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+760,760,760,1050.0,8.0,15,Ready to move,East facing,Unfurnished,15000000000.0,8400000.0,710.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+761,761,761,3825.0,8.5,8,Ready to move,East facing,Unfurnished,20000000000.0,32512500.0,1150.0,4.0,3.0,2 Covered and 1 Open Parking,1,2.0,1.0
+762,762,762,1050.0,7.87,10,Ready to move,East facing,Unfurnished,0.0,8263500.0,1165.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+763,763,763,2000.0,10.75,10,Ready to move,East facing,Fully Furnished,0.0,21500000.0,850.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+764,764,764,1050.0,6.81,9,Under Construction,East facing,Unfurnished,17000000000.0,7150500.0,1116.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+765,765,765,1487.0,4.17,2,Under Construction,East facing,Unfurnished,11000000000.000002,6200790.0,838.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+766,766,766,1078.0,6.49,2,Ready to move,East facing,Unfurnished,0.0,6996220.0,1235.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+767,767,767,980.0,4.39,10,Under Construction,East facing,Unfurnished,15000000000.0,4302200.0,800.0,2.0,5.0,1 Covered Parking,2,1.0,0.0
+768,768,768,570.0,5.23,1,Under Construction,West facing,Unfurnished,18000000000.0,2981100.0000000005,800.0,1.0,1.0,1 Open Parking,1,0.0,1.0
+769,769,769,870.0,4.83,1,Under Construction,East facing,Unfurnished,0.0,4202100.0,700.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+770,770,770,900.0,5.44,6,Ready to move,West facing,Unfurnished,640000000000000.0,4896000.0,756.0,,1.0,2,1 Covered Parking,2.0,0.0
+771,771,771,3600.0,11.8,7,Ready to move,East facing,Semi Furnished,640000000000000.0,42480000.0,600.0,5.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+772,772,772,625.0,5.72,6,Ready to move,East facing,Unfurnished,20000000000.0,3575000.0,2300.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+775,775,775,1900.0,8.42,10,Ready to move,North-East facing,Fully Furnished,900000000000000.0,15998000.0,480.0,4.0,2.0,2 Covered Parking,3,2.0,0.0
+776,776,776,850.0,5.41,4,Ready to move,East facing,Unfurnished,17000000000.0,4598500.0,1213.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+777,777,777,1450.0,4.48,2,Under Construction,East facing,Fully Furnished,700000000000000.0,6496000.000000001,489.0,3.0,4.0,2 Covered and 3 Open Parking,3,2.0,3.0
+778,778,778,1547.0,12.28,1,Ready to move,North facing,Fully Furnished,15000000000.0,18997160.0,838.0,,2.0,3,1 Open Parking,3.0,0.0
+779,779,779,1000.0,7.2,20,Ready to move,West facing,Unfurnished,12000000000.0,7200000.0,875.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+780,780,780,905.0,6.08,5,Ready to move,West facing,Semi Furnished,20000000000.0,5502400.0,1011.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+781,781,781,1790.0,5.47,6,Under Construction,West facing,Unfurnished,800000000000000.0,9791300.0,1020.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+782,782,782,913.0,6.68,1,Ready to move,East facing,Semi Furnished,700000000000000.0,6098840.0,812.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+783,783,783,968.0,10.33,10,Ready to move,East facing,Unfurnished,750000000000000.0,9999440.0,1215.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+784,784,784,969.0,7.22,5,Ready to move,North-West facing,Fully Furnished,900000000000000.0,6996180.0,1011.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+787,787,787,1011.0,5.54,8,Under Construction,East facing,Unfurnished,13000000000.0,5600940.0,1750.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+789,789,789,1417.0,6.99,10,Under Construction,East facing,Unfurnished,11000000000.000002,9904830.0,855.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+790,790,790,1173.0,7.89,5,Under Construction,North-East facing,Unfurnished,12000000000.0,9254970.0,867.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+791,791,791,665.0,4.86,6,Ready to move,East facing,Semi Furnished,14000000000.0,3231900.0,1876.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+792,792,792,1100.0,4.91,5,Ready to move,East facing,Fully Furnished,18000000000.0,5401000.0,2607.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+793,793,793,870.0,4.87,1,Ready to move,East facing,Unfurnished,520000000000000.0,4236900.0,1400.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+794,794,794,1173.0,7.89,6,Under Construction,East facing,Unfurnished,17000000000.0,9254970.0,830.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+795,795,795,868.0,4.75,6,Ready to move,East facing,Unfurnished,12000000000.0,4123000.0,750.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+796,796,796,665.0,4.58,1,Ready to move,East facing,Unfurnished,0.0,3045700.0,1800.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+797,797,797,1100.0,7.09,1,Under Construction,East facing,Unfurnished,640000000000000.0,7799000.0,829.0,2.0,2.0,1 Covered Parking,No Balcony,1.0,0.0
+798,798,798,1100.0,7.36,8,Under Construction,East facing,Fully Furnished,0.0,8096000.0,1520.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+799,799,799,1100.0,7.09,10,Ready to move,East facing,Semi Furnished,720000000000000.0,7799000.0,750.0,2.0,2.0,1 Covered Parking,3,1.0,0.0
+800,800,800,950.0,4.74,3,Ready to move,East facing,Semi Furnished,17000000000.0,4503000.0,750.0,2.0,2.0,1 Open Parking,2,0.0,1.0
+802,802,802,930.0,5.59,1,Ready to move,East facing,Semi Furnished,960000000000000.0,5198700.0,750.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+803,803,803,1124.0,7.29,2,Ready to move,East facing,Semi Furnished,560000000000000.0,8193960.0,1300.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+804,804,804,1100.0,11.64,6,Ready to move,East facing,Semi Furnished,0.0,12804000.0,960.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+805,805,805,900.0,5.77,8,Ready to move,East facing,Fully Furnished,700000000000000.0,5193000.0,1213.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+806,806,806,1750.0,10.29,2,Ready to move,East facing,Semi Furnished,10000000000.0,18007500.0,945.0,3.0,2.0,2 Covered Parking,3,2.0,0.0
+807,807,807,960.0,6.04,2,Ready to move,West facing,Semi Furnished,0.0,5798400.0,510.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+808,808,808,1150.0,7.39,1,Ready to move,East facing,Semi Furnished,0.0,8498500.0,770.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+809,809,809,550.0,5.11,4,Ready to move,East facing,Unfurnished,50000000000.0,2810500.0,692.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+811,811,811,864.0,5.67,8,Under Construction,East facing,Unfurnished,0.0,4898880.0,2607.0,,3.0,1,1 Covered and 1 Open Parking,1.0,0.0
+812,812,812,546.0,5.13,5,Ready to move,East facing,Unfurnished,0.0,2800980.0,760.0,1.0,3.0,1 Covered and 1 Open Parking,1,1.0,1.0
+813,813,813,1180.0,7.63,5,Ready to move,East facing,Semi Furnished,0.0,9003400.0,800.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+814,814,814,1373.0,11.29,1,Ready to move,East facing,Unfurnished,10000000000.0,15501169.999999998,818.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+816,816,816,1750.0,10.29,7,Ready to move,East facing,Semi Furnished,640000000000000.0,18007500.0,828.0,3.0,2.0,2 Covered Parking,3,2.0,0.0
+817,817,817,1150.0,7.39,7,Ready to move,East facing,Fully Furnished,10000000000.0,8498500.0,780.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+818,818,818,950.0,5.79,7,Ready to move,East facing,Semi Furnished,750000000000000.0,5500500.0,1380.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+819,819,819,1450.0,10.34,7,Ready to move,North facing,Semi Furnished,10000000000.0,14993000.0,1235.0,2.0,1.0,2 Covered Parking,3,2.0,0.0
+820,820,820,950.0,11.05,7,Ready to move,East facing,Unfurnished,12000000000.0,10497500.0,450.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+821,821,821,980.0,9.08,7,Ready to move,East facing,Unfurnished,15000000000.0,8898400.0,1110.0,2.0,6.0,1 Open Parking,2,0.0,1.0
+822,822,822,1080.0,8.15,7,Under Construction,East facing,Unfurnished,900000000000000.0,8802000.0,1235.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+823,823,823,671.0,4.77,7,Ready to move,East facing,Unfurnished,35000000000.0,3200669.9999999995,825.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+824,824,824,633.0,5.05,7,Ready to move,East facing,Unfurnished,14000000000.0,3196650.0,790.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+825,825,825,2100.0,5.24,7,Ready to move,East facing,Unfurnished,10000000000.0,11004000.0,1460.0,,1.0,3,1 Covered and 1 Open Parking,3.0,0.0
+826,826,826,1550.0,7.42,7,Ready to move,East facing,Unfurnished,12000000000.0,11501000.0,1420.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+827,827,827,880.0,6.82,7,Ready to move,East facing,Unfurnished,900000000000000.0,6001600.0,1235.0,2.0,1.0,1 Open Parking,1,0.0,1.0
+828,828,828,589.0,6.38,7,Ready to move,East facing,Unfurnished,640000000000000.0,3757820.0,1144.0,1.0,3.0,1 Covered Parking,1,1.0,0.0
+829,829,829,674.0,6.68,7,Ready to move,East facing,Fully Furnished,14000000000.0,4502320.0,829.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+830,830,830,1108.0,7.67,7,Ready to move,East facing,Semi Furnished,14000000000.0,8498360.0,1430.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+831,831,831,678.0,5.6,7,Ready to move,East facing,Unfurnished,640000000000000.0,3796800.0,830.0,1.0,1.0,1 Open Parking,1,0.0,1.0
+832,832,832,1768.0,8.77,7,Ready to move,East facing,Unfurnished,960000000000000.0,15505360.0,550.0,3.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+833,833,833,967.0,6.2,7,Ready to move,East facing,Semi Furnished,800000000000000.0,5995400.0,2609.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+834,834,834,1881.0,7.44,7,Ready to move,East facing,Semi Furnished,0.0,13994640.0,925.0,3.0,1.0,2 Covered and 1 Open Parking,2,2.0,1.0
+835,835,835,650.0,6.08,7,Ready to move,East facing,Semi Furnished,0.0,3952000.0,824.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+837,837,837,650.0,5.69,7,Ready to move,East facing,Unfurnished,0.0,3698500.000000001,1145.0,1.0,2.0,1 Open Parking,2,0.0,1.0
+838,838,838,665.0,6.77,7,Ready to move,East facing,Unfurnished,0.0,4502050.0,1358.0,1.0,2.0,1 Open Parking,No Balcony,0.0,1.0
+840,840,840,600.0,5.67,7,Ready to move,East facing,Semi Furnished,0.0,3402000.0,614.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+841,841,841,1050.0,6.19,7,Ready to move,East facing,Semi Furnished,0.0,6499500.0,515.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+843,843,843,1000.0,11.5,7,Ready to move,East facing,Semi Furnished,849990000000000.0,11500000.0,700.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+844,844,844,965.0,6.32,7,Ready to move,East facing,Fully Furnished,900000000000000.0,6098800.0,800.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+845,845,845,1070.0,6.73,7,Ready to move,East facing,Semi Furnished,16000000000.0,7201100.0,810.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+846,846,846,950.0,7.26,7,Ready to move,East facing,Unfurnished,20000000000.0,6897000.0,900.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+847,847,847,680.0,3.82,7,Ready to move,East facing,Semi Furnished,950000000000000.0,2597600.0,830.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+848,848,848,1136.0,7.66,7,Ready to move,West facing,Fully Furnished,10000000000.0,8701760.0,835.0,3.0,1.0,1 Covered Parking,3,1.0,0.0
+849,849,849,1040.0,5.77,7,Ready to move,East facing,Semi Furnished,0.0,6000800.0,800.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+851,851,851,860.0,5.81,7,Ready to move,East facing,Unfurnished,0.0,4996600.0,1208.0,,2.0,2,1 Covered Parking,2.0,0.0
+852,852,852,600.0,5.33,7,Ready to move,East facing,Semi Furnished,17000000000.0,3198000.0,750.0,1.0,2.0,1 Open Parking,No Balcony,0.0,1.0
+853,853,853,1182.0,8.97,7,Under Construction,East facing,Unfurnished,14000000000.0,10602540.0,485.0,3.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+854,854,854,650.0,5.69,7,Ready to move,East facing,Semi Furnished,12000000000.0,3698500.000000001,828.0,1.0,1.0,1 Covered and 1 Open Parking,1,1.0,1.0
+855,855,855,1170.0,7.33,7,Ready to move,East facing,Semi Furnished,0.0,8576100.0,956.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+857,857,857,805.0,5.96,7,Ready to move,East facing,Unfurnished,0.0,4797800.0,1308.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+858,858,858,680.0,4.12,7,Ready to move,East facing,Semi Furnished,23000000000.0,2801600.0,1046.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+859,859,859,1050.0,6.37,7,Ready to move,East facing,Unfurnished,0.0,6688500.0,1070.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+860,860,860,618.0,5.66,7,Ready to move,East facing,Semi Furnished,0.0,3497880.0,1145.0,1.0,5.0,1 Covered and 1 Open Parking,2,1.0,1.0
+861,861,861,1070.0,7.94,7,Ready to move,East facing,Unfurnished,0.0,8495800.0,1069.0,2.0,4.0,1 Covered and 1 Open Parking,1,1.0,1.0
+863,863,863,500.0,8.6,7,Under Construction,West facing,Unfurnished,15000000000.0,4300000.0,828.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+864,864,864,6600.0,7.58,7,Ready to move,East facing,Semi Furnished,30000000000.0,50028000.0,2609.0,5.0,2.0,3 Covered Parking,4,3.0,0.0
+866,866,866,886.0,8.92,7,Under Construction,North-West facing,Unfurnished,25000000000.0,7903120.0,852.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+867,867,867,562.0,8.72,7,Under Construction,East facing,Unfurnished,18000000000.0,4900640.0,828.0,2.0,1.0,1 Covered and 1 Open Parking,1,1.0,1.0
+868,868,868,1100.0,4.54,7,Under Construction,East facing,Fully Furnished,0.0,4994000.0,828.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+869,869,869,800.0,6.25,7,Ready to move,East facing,Unfurnished,16000000000.0,5000000.0,838.0,2.0,1.0,No Parking,1,0.0,0.0
+870,870,870,1203.0,6.65,7,Ready to move,East facing,Unfurnished,0.0,7999950.0,1750.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+871,871,871,612.0,5.23,7,Ready to move,East facing,Unfurnished,13000000000.0,3200760.0000000005,2290.0,1.0,2.0,1 Open Parking,2,0.0,1.0
+872,872,872,1011.0,6.23,7,Ready to move,East facing,Unfurnished,15000000000.0,6298530.0,2280.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+873,873,873,750.0,5.07,7,Ready to move,East facing,Unfurnished,18000000000.0,3802500.0,1337.0,1.0,1.0,1 Covered Parking,1,1.0,0.0
+874,874,874,1124.0,7.12,7,Ready to move,West facing,Semi Furnished,16000000000.0,8002880.0,1213.0,2.0,4.0,1 Covered Parking,1,1.0,0.0
+875,875,875,850.0,8.82,7,Ready to move,East facing,Semi Furnished,13000000000.0,7497000.0,1267.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+876,876,876,1147.0,6.97,7,Ready to move,East facing,Unfurnished,0.0,7994590.0,1116.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+877,877,877,678.0,6.64,7,Ready to move,East facing,Unfurnished,15000000000.0,4501920.0,832.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+878,878,878,3150.0,11.08,7,Ready to move,East facing,Semi Furnished,0.0,34902000.0,908.0,4.0,1.0,3 Covered and 1 Open Parking,2,3.0,1.0
+879,879,879,974.0,13.86,7,Ready to move,South-East facing,Fully Furnished,0.0,13499640.0,1750.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+880,880,880,665.0,7.52,7,Ready to move,West facing,Unfurnished,19000000000.0,5000800.0,666.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+881,881,881,955.0,6.28,7,Ready to move,South facing,Unfurnished,0.0,5997400.0,820.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+882,882,882,655.0,6.87,7,Ready to move,East facing,Fully Furnished,0.0,4499850.0,830.0,1.0,1.0,1 Open Parking,1,0.0,1.0
+883,883,883,638.0,5.01,7,Ready to move,West facing,Unfurnished,32000000000.0,3196380.0,1413.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+884,884,884,1050.0,6.57,7,Ready to move,North facing,Semi Furnished,20000000000.0,6898500.0,1170.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+886,886,886,660.0,4.85,7,Ready to move,East facing,Unfurnished,14000000000.0,3200999.9999999995,765.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+887,887,887,960.0,5.0,7,Ready to move,North facing,Semi Furnished,15000000000.0,4800000.0,470.0,2.0,2.0,1 Open Parking,2,0.0,1.0
+888,888,888,900.0,9.78,7,Ready to move,East facing,Semi Furnished,0.0,8802000.0,618.0,2.0,2.0,1 Covered and 2 Open Parking,2,1.0,2.0
+889,889,889,1058.0,7.75,7,Under Construction,East facing,Semi Furnished,0.0,8199500.0,1200.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+890,890,890,1050.0,8.53,7,Ready to move,North facing,Unfurnished,11000000000.000002,8956500.0,850.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+892,892,892,670.0,7.69,7,Under Construction,East facing,Semi Furnished,0.0,5152300.0,850.0,2.0,1.0,1 Covered and 1 Open Parking,2,1.0,1.0
+894,894,894,1003.0,6.48,7,Ready to move,East facing,Unfurnished,0.0,6499440.0,1084.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+895,895,895,1131.0,8.4,7,Under Construction,East facing,Unfurnished,0.0,9500400.0,2400.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+896,896,896,910.0,4.78,7,Ready to move,East facing,Unfurnished,22000000000.000004,4349800.0,425.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+898,898,898,550.0,9.45,7,Ready to move,East facing,Unfurnished,0.0,5197500.0,750.0,1.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+899,899,899,900.0,5.0,7,Ready to move,East facing,Unfurnished,10000000000.0,4500000.0,761.0,2.0,2.0,1 Open Parking,1,0.0,1.0
+900,900,900,810.0,9.88,7,Ready to move,East facing,Semi Furnished,25000000000.0,8002800.000000001,600.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+901,901,901,850.0,11.41,7,Ready to move,West facing,Semi Furnished,16000000000.0,9698500.0,908.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+902,902,902,978.0,9.71,7,Ready to move,North-West facing,Semi Furnished,15000000000.0,9496380.0,830.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+903,903,903,910.0,10.99,7,Ready to move,East facing,Semi Furnished,0.0,10000900.0,1116.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+904,904,904,1370.0,7.15,7,Under Construction,East facing,Unfurnished,40000000000.0,9795500.0,1213.0,3.0,3.0,1 Covered Parking,3,1.0,0.0
+905,905,905,975.0,13.85,7,Ready to move,East facing,Unfurnished,30000000000.0,13503750.0,823.0,2.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+907,907,907,990.0,8.69,7,Ready to move,East facing,Semi Furnished,20000000000.0,8603100.0,1495.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+908,908,908,1308.0,10.32,7,Ready to move,East facing,Fully Furnished,0.0,13498560.0,1144.0,3.0,1.0,1 Covered Parking,2,1.0,0.0
+909,909,909,670.0,8.96,7,Ready to move,East facing,Unfurnished,20000000000.0,6003200.000000001,838.0,1.0,2.0,1 Covered Parking,1,1.0,0.0
+910,910,910,1715.0,8.75,7,Under Construction,West facing,Unfurnished,14000000000.0,15006250.0,1250.0,3.0,5.0,2 Covered Parking,4,2.0,0.0
+915,915,915,1620.0,8.39,7,Under Construction,East facing,Semi Furnished,12000000000.0,13591800.0,720.0,3.0,4.0,2 Covered Parking,3,2.0,0.0
+916,916,916,1420.0,9.15,7,Under Construction,East facing,Unfurnished,16000000000.0,12993000.0,907.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+917,917,917,1090.0,7.89,7,Under Construction,East facing,Unfurnished,0.0,8600100.0,830.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+918,918,918,1210.0,6.2,7,Ready to move,East facing,Semi Furnished,30000000000.0,7502000.0,930.0,2.0,3.0,1 Open Parking,3,0.0,1.0
+919,919,919,1560.0,16.15,7,Ready to move,East facing,Semi Furnished,0.0,25194000.0,943.0,4.0,2.0,1 Covered and 1 Open Parking,2,1.0,1.0
+923,923,923,1185.0,7.68,7,Ready to move,East facing,Unfurnished,0.0,9100800.0,550.0,2.0,1.0,1 Covered Parking,2,1.0,0.0
+924,924,924,1552.0,5.15,7,Under Construction,East facing,Unfurnished,47000000000.0,7992800.000000001,450.0,,3.0,2,1 Covered Parking,2.0,0.0
+927,927,927,1000.0,8.5,7,Ready to move,East facing,Unfurnished,0.0,8500000.0,900.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+928,928,928,710.0,7.32,7,Under Construction,East facing,Semi Furnished,0.0,5197200.0,900.0,1.0,3.0,1 Covered Parking,1,1.0,0.0
+929,929,929,1370.0,9.63,7,Ready to move,East facing,Unfurnished,20000000000.0,13193100.000000002,700.0,3.0,3.0,1 Covered Parking,2,1.0,0.0
+930,930,930,900.0,8.33,7,Ready to move,East facing,Semi Furnished,15000000000.0,7497000.0,500.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+931,931,931,1700.0,10.29,7,Ready to move,East facing,Fully Furnished,30000000000.0,17493000.0,2450.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+932,932,932,1110.0,7.21,7,Ready to move,East facing,Unfurnished,32000000000.0,8003100.0,600.0,2.0,3.0,1 Covered Parking,3,1.0,0.0
+933,933,933,1710.0,8.19,7,Under Construction,East facing,Unfurnished,11000000000.000002,14004900.0,835.0,,3.0,3,2 Covered Parking,3.0,0.0
+934,934,934,1640.0,7.93,7,Ready to move,East facing,Semi Furnished,20000000000.0,13005200.0,1180.0,3.0,2.0,2 Covered and 1 Open Parking,3,2.0,1.0
+935,935,935,1680.0,13.33,7,Under Construction,East facing,Unfurnished,32000000000.0,22394400.0,943.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+936,936,936,958.0,7.88,7,Ready to move,East facing,Unfurnished,18000000000.0,7549040.0,636.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+937,937,937,1520.0,8.42,7,Under Construction,East facing,Unfurnished,18000000000.0,12798400.0,1050.0,3.0,2.0,2 Covered Parking,3,2.0,0.0
+940,940,940,1506.0,7.64,7,Under Construction,South-East facing,Unfurnished,30000000000.0,11505840.0,661.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+941,941,941,1131.0,7.92,7,Under Construction,East facing,Unfurnished,0.0,8957520.0,560.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+943,943,943,1100.0,8.91,7,Ready to move,East facing,Semi Furnished,37000000000.0,9801000.0,930.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
+944,944,944,950.0,7.69,7,Ready to move,East facing,Semi Furnished,18000000000.0,7305500.0,1147.0,2.0,3.0,2 Covered and 2 Open Parking,2,2.0,2.0
+945,945,945,980.0,7.96,7,Ready to move,East facing,Unfurnished,15000000000.0,7800800.0,1308.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+946,946,946,998.0,7.71,7,Ready to move,East facing,Unfurnished,47000000000.0,7694580.0,1035.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+947,947,947,810.0,6.79,7,Ready to move,East facing,Unfurnished,27000000000.0,5499900.0,1235.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+948,948,948,3300.0,9.7,7,Under Construction,East facing,Unfurnished,0.0,32010000.0,570.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+951,951,951,620.0,9.03,7,Ready to move,East facing,Fully Furnished,18000000000.0,5598600.0,800.0,1.0,3.0,1 Covered Parking,2,1.0,0.0
+953,953,953,684.0,8.04,7,Under Construction,East facing,Unfurnished,700000000000000.0,5499359.999999999,1213.0,1.0,3.0,1 Covered Parking,2,1.0,0.0
+955,955,955,1181.0,6.43,7,Ready to move,East facing,Semi Furnished,10000000000.0,7593830.0,521.0,2.0,3.0,1 Covered and 1 Open Parking,3,1.0,1.0
+956,956,956,1250.0,11.84,7,Under Construction,East facing,Unfurnished,10000000000.0,14800000.0,700.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+957,957,957,1440.0,7.81,7,Ready to move,East facing,Unfurnished,15000000000.0,11246400.0,1230.0,3.0,4.0,1 Covered Parking,2,1.0,0.0
+958,958,958,1096.0,8.39,7,Under Construction,East facing,Unfurnished,10000000000.0,9195440.0,1413.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+959,959,959,1510.0,9.14,7,Under Construction,East facing,Unfurnished,10000000000.0,13801400.0,1139.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+960,960,960,1364.0,9.16,7,Ready to move,East facing,Semi Furnished,10000000000.0,12494240.0,1213.0,3.0,2.0,2 Covered Parking,1,2.0,0.0
+961,961,961,1645.0,8.21,7,Under Construction,East facing,Unfurnished,15000000000.0,13505450.000000002,560.0,,2.0,3,1 Covered and 1 Open Parking,3.0,0.0
+962,962,962,1215.0,9.55,7,Ready to move,East facing,Unfurnished,10000000000.0,11603250.0,750.0,,4.0,3,1 Covered and 1 Open Parking,3.0,0.0
+964,964,964,1579.0,7.92,7,Under Construction,East facing,Unfurnished,19000000000.0,12505680.0,1271.0,,4.0,3,1 Covered Parking,3.0,0.0
+965,965,965,1256.0,13.14,7,Ready to move,East facing,Fully Furnished,0.0,16503840.0,943.0,2.0,3.0,1 Covered Parking,3,1.0,0.0
+966,966,966,1088.0,7.4,7,Ready to move,East facing,Unfurnished,0.0,8051200.0,1116.0,2.0,2.0,No Parking,3,0.0,0.0
+967,967,967,1170.0,7.09,7,Under Construction,East facing,Unfurnished,0.0,8295300.0,1515.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+968,968,968,1950.0,10.26,7,Ready to move,North-East facing,Fully Furnished,0.0,20007000.0,700.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+969,969,969,2000.0,7.5,7,Ready to move,East facing,Fully Furnished,0.0,15000000.0,1150.0,3.0,3.0,2 Covered and 1 Open Parking,2,2.0,1.0
+970,970,970,3150.0,12.7,7,Ready to move,East facing,Fully Furnished,0.0,40005000.0,812.0,3.0,2.0,3 Covered and 2 Open Parking,3,3.0,2.0
+971,971,971,1760.0,9.15,7,Ready to move,East facing,Semi Furnished,18000000000.0,16104000.0,838.0,3.0,3.0,2 Covered Parking,3,2.0,0.0
+972,972,972,1145.0,6.99,7,Under Construction,East facing,Unfurnished,47000000000.0,8003550.0,1116.0,2.0,2.0,1 Covered and 1 Open Parking,1,1.0,1.0
+973,973,973,950.0,10.42,7,Ready to move,West facing,Semi Furnished,0.0,9899000.0,1046.0,2.0,2.0,2 Covered Parking,1,2.0,0.0
+974,974,974,1050.0,6.86,7,Ready to move,East facing,Unfurnished,0.0,7203000.0,820.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+975,975,975,2400.0,12.5,7,Ready to move,East facing,Unfurnished,0.0,30000000.0,1139.0,3.0,2.0,2 Covered Parking,2,2.0,0.0
+976,976,976,1119.0,6.97,7,Under Construction,East facing,Unfurnished,0.0,7799430.0,943.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+977,977,977,1876.0,10.39,7,Ready to move,East facing,Fully Furnished,0.0,19491640.0,908.0,4.0,3.0,2 Covered Parking,2,2.0,0.0
+978,978,978,1050.0,7.43,7,Ready to move,East facing,Semi Furnished,0.0,7801500.0,1100.0,2.0,3.0,1 Covered Parking,1,1.0,0.0
+979,979,979,927.0,6.47,7,Ready to move,East facing,Unfurnished,50000000000.0,5997690.0,1065.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+980,980,980,900.0,8.67,7,Ready to move,East facing,Unfurnished,0.0,7803000.0,1011.0,,2.0,2,1 Covered Parking,2.0,0.0
+981,981,981,900.0,8.67,7,Ready to move,East facing,Semi Furnished,0.0,7803000.0,2280.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+982,982,982,1755.0,7.41,7,Ready to move,East facing,Unfurnished,0.0,13004550.0,1116.0,3.0,2.0,1 Covered Parking,3,1.0,0.0
+983,983,983,1260.0,12.7,7,Ready to move,East facing,Fully Furnished,0.0,16002000.0,780.0,2.0,2.0,2 Covered Parking,2,2.0,0.0
+984,984,984,1520.0,9.21,7,Under Construction,East facing,Unfurnished,0.0,13999200.000000002,1144.0,3.0,4.0,1 Covered Parking,3,1.0,0.0
+985,985,985,1256.0,13.14,7,Ready to move,East facing,Semi Furnished,0.0,16503840.0,1046.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+986,986,986,581.0,9.64,7,Ready to move,East facing,Semi Furnished,24000000000.0,5600840.0,1650.0,1.0,2.0,1 Open Parking,1,0.0,1.0
+988,988,988,1010.0,6.34,7,Under Construction,East facing,Unfurnished,14000000000.0,6403400.0,776.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+990,990,990,3150.0,12.7,7,Ready to move,East facing,Fully Furnished,14000000000.0,40005000.0,1144.0,3.0,2.0,3 Covered and 2 Open Parking,3,3.0,2.0
+992,992,992,1050.0,7.43,7,Ready to move,East facing,Unfurnished,0.0,7801500.0,700.0,2.0,3.0,1 Covered Parking,2,1.0,0.0
+994,994,994,1104.0,8.2,7,Under Construction,East facing,Unfurnished,11000000000.000002,9052800.0,750.0,2.0,1.0,1 Covered Parking,1,1.0,0.0
+995,995,995,1070.0,10.65,7,Ready to move,East facing,Unfurnished,11000000000.000002,11395500.0,810.0,,3.0,2,-,2.0,0.0
+996,996,996,1138.0,8.7,7,Ready to move,East facing,Semi Furnished,0.0,9900600.0,1460.0,2.0,3.0,2 Covered Parking,3,2.0,0.0
+997,997,997,1050.0,7.48,7,Ready to move,East facing,Unfurnished,940000000000000.0,7854000.0,908.0,2.0,2.0,1 Covered Parking,3,1.0,0.0
+998,998,998,1863.0,8.86,7,Ready to move,East facing,Semi Furnished,0.0,16506179.999999998,760.0,3.0,2.0,1 Open Parking,2,0.0,1.0
+1000,1000,1000,600.0,8.92,7,Ready to move,East facing,Unfurnished,20000000000.0,5352000.0,1070.0,1.0,3.0,1 Open Parking,1,0.0,1.0
+1001,1001,1001,1458.0,9.29,7,Ready to move,East facing,Semi Furnished,0.0,13544819.999999998,1180.0,3.0,2.0,1 Covered Parking,1,1.0,0.0
+1002,1002,1002,1790.0,8.94,7,Ready to move,East facing,Semi Furnished,0.0,16002600.0,666.0,3.0,3.0,2 Covered Parking,3,2.0,0.0
+1003,1003,1003,1120.0,8.62,7,Ready to move,East facing,Unfurnished,27000000000.0,9654400.0,1515.0,2.0,2.0,1 Covered Parking,1,1.0,0.0
+1005,1005,1005,1971.0,12.15,7,Ready to move,East facing,Unfurnished,11000000000.000002,23947650.0,1055.0,4.0,2.0,2 Covered Parking,3,2.0,0.0
+1006,1006,1006,1890.0,9.76,7,Ready to move,East facing,Semi Furnished,15000000000.0,18446400.0,1026.0,4.0,2.0,2 Covered Parking,2,2.0,0.0
+1007,1007,1007,1667.0,9.45,7,Ready to move,East facing,Unfurnished,15000000000.0,15753149.999999998,1139.0,3.0,4.0,2 Covered Parking,2,2.0,0.0
+1009,1009,1009,1143.0,8.31,7,Under Construction,East facing,Unfurnished,0.0,9498330.0,910.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+1010,1010,1010,1930.0,9.84,7,Ready to move,East facing,Unfurnished,0.0,18991200.0,1410.0,3.0,2.0,1 Covered Parking,2,1.0,0.0
+1011,1011,1011,1120.0,8.62,7,Ready to move,East facing,Unfurnished,0.0,9654400.0,810.0,2.0,2.0,1 Covered Parking,2,1.0,0.0
+1012,1012,1012,630.0,11.9,7,Ready to move,East facing,Semi Furnished,0.0,7497000.0,975.0,2.0,3.0,1 Covered and 1 Open Parking,2,1.0,1.0
